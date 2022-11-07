@@ -1,0 +1,704 @@
+﻿REG_ID,SEC_CUR_STAT,SEC_NAME,SEC_TITLE,Days,Time,Faculty,SeatsAvailableScheduledCapacity,CR_MIN,CR_MAX,Textbox8
+91452,Active,ALS-100-01,Alternate Language Study,AR  ,,"Izmaylova, Anastasia ",44 /45 ,2.00000,,RECORD COUNT 702
+90811,Active,AMS-130-01,Intro to American Studies,MWF  ,11:00 AM - 11:50 AM  ,"Andrews, Stephen R ",21 /25 ,4.00000,,RECORD COUNT 702
+91492,Active,AMS-195-01,ST: Contemp US Stdnt Activism,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Scott, Kesho ",24 /25 ,2.00000,,RECORD COUNT 702
+91456,Active,AMS-295-01,ST: Fdnts of US Popular Cultr,TTH  ,1:00 PM  - 2:20 PM  ,"Purcell, Sarah J ",9  /25 ,4.00000,,RECORD COUNT 702
+91463,Active,AMS-295-02,ST: The Journey Within,TTH  ,1:00 PM  - 2:20 PM  ,"Scott, Kesho; Freeman, William",17 /22 ,4.00000,,RECORD COUNT 702
+90812,Active,ANT-104-01,Anthropological Inquiries,MWF  ,8:00 AM  - 8:50 AM  ,"Kulstad, Tess ",21 /25 ,4.00000,,RECORD COUNT 702
+90813,Active,ANT-104-02,Anthropological Inquiries,MWF  ,3:00 PM  - 3:50 PM  ,"Ng, Laura Wai ",22 /25 ,4.00000,,RECORD COUNT 702
+90814,Active,ANT-104-03,Anthropological Inquiries,MWF  ,11:00 AM - 11:50 AM  ,"Holmstrom, Jane ",14 /25 ,4.00000,,RECORD COUNT 702
+91868,Active,ANT-104-04,Anthropological Inquiries,TTH  ,2:30 PM  - 3:50 PM  ,"Kohl, Owen N ",21 /25 ,4.00000,,RECORD COUNT 702
+91926,Active,ANT-195-01,ST: Living Well Cross-Cltrly,TTH  ,2:00 PM  - 3:50 PM  ,"Tapias, Maria; Lewis, Carolyn Herbst",13 /15 ,4.00000,,RECORD COUNT 702
+90816,Active,ANT-231-01,"Disasters, Society and Culture",MWF  ,10:00 AM - 10:50 AM  ,"Kulstad, Tess ",15 /20 ,4.00000,,RECORD COUNT 702
+90817,Active,ANT-265-01,Ethngrphy of Comm: Mthd & Thry,TTH  ,8:30 AM  - 9:50 AM  ,"Kohl, Owen N ",11 /20 ,4.00000,,RECORD COUNT 702
+90818,Active,ANT-280-01,Theories of Culture,MWF  ,11:00 AM - 11:50 AM  ,"Kulstad, Tess ",17 /20 ,4.00000,,RECORD COUNT 702
+90819,Cancelled,ANT-290-01,Archaeological Field Methods,TTH  ,8:30 AM  - 9:50 AM  ,"Staff, - ",15 /15 ,4.00000,,RECORD COUNT 702
+91117,Active,ANT-291-01,Meth Empirical Investigation,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Francisco, Sara C ",0  /18 ,4.00000,,RECORD COUNT 702
+91464,Cancelled,ANT-295-01,ST: Language and Humor,TTH  ,2:30 PM  - 3:50 PM  ,"Sweet, Nikolas P ",20 /20 ,4.00000,,RECORD COUNT 702
+91901,Active,ANT-295-01,ST: Pol of the Past: Arch/Mus,TTH  ,8:30 AM  - 9:50 AM  ,"Ng, Laura Wai ",14 /16 ,4.00000,,RECORD COUNT 702
+91902,Active,ANT-295-02,ST: Graphic Medicine,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Tapias, Maria ",10 /20 ,4.00000,,RECORD COUNT 702
+91903,Active,ANT-295-03,ST: Human Osteology,MW F,1:00 PM  - 1:50 PM 1:00 PM  - 3:50 PM ,"Holmstrom, Jane ",5  /16 ,4.00000,,RECORD COUNT 702
+91904,Active,ANT-295-04,ST: Anthro & Semiotics of Fun,MWF  ,1:00 PM  - 1:50 PM  ,"Kohl, Owen N ",16 /20 ,4.00000,,RECORD COUNT 702
+91905,Active,ANT-295-05,ST: Evolution and Running,M  ,1:00 PM  - 3:50 PM  ,"Bentley-Condit, Vicki K ",13 /16 ,2.00000,,RECORD COUNT 702
+91906,Active,ANT-295-06,ST: Evolution & Reproduction,M  ,7:00 PM  - 9:50 PM  ,"Bentley-Condit, Vicki K ",17 /20 ,2.00000,,RECORD COUNT 702
+90820,Active,ANT-355-01,Collective Memory Anth Prspctv,MW  ,2:30 PM  - 3:50 PM  ,"French, Brigittine ",15 /15 ,4.00000,,RECORD COUNT 702
+91907,Active,ANT-395-01,ST: Body/Religion Middle Ages,TTH  ,2:30 PM  - 3:50 PM  ,"Holmstrom, Jane ",8  /15 ,4.00000,,RECORD COUNT 702
+91031,Active,ARB-102-01,Beginning Arabic II,MTWTHF  ,10:00 AM - 10:50 AM  ,"Youssef, Mervat ",25 /25 ,5.00000,,RECORD COUNT 702
+91032,Active,ARB-222-01,Intermediate Arabic II,MTWF  ,11:00 AM - 11:50 AM  ,"Youssef, Mervat ",20 /20 ,4.00000,,RECORD COUNT 702
+91934,Active,ARB-295-01,ST: Soc Chng Mid East Cinema,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Abdelfattah, Heba Arafa ",23 /25 ,4.00000,,RECORD COUNT 702
+91936,Active,ARB-295-02,ST: Arabic Tales and Falsafa,TTH  ,1:00 PM  - 2:20 PM  ,"Abdelfattah, Heba Arafa ",25 /25 ,4.00000,,RECORD COUNT 702
+91939,Active,ARB-295-03,ST: Popular Arabic Film,TTH  ,2:30 PM  - 3:50 PM  ,"Abdelfattah, Heba Arafa ",24 /25 ,4.00000,,RECORD COUNT 702
+90824,Active,ARH-103-01,Intro to Art History,MWF  ,10:00 AM - 10:50 AM  ,"Shea, Eiren ",19 /25 ,4.00000,,RECORD COUNT 702
+90825,Active,ARH-103-02,Intro to Art History,MWF  ,3:00 PM  - 3:50 PM  ,"Shea, Eiren ",23 /25 ,4.00000,,RECORD COUNT 702
+91482,Active,ARH-115-01,Art of India & South Asia,MWF  ,9:00 AM  - 9:50 AM  ,"Mackenzie, Michael ",24 /25 ,4.00000,,RECORD COUNT 702
+90826,Active,ARH-211-01,Arts & Visual Cltrs of China,MW  ,1:00 PM  - 2:20 PM  ,"Shea, Eiren ",19 /20 ,4.00000,,RECORD COUNT 702
+90828,Active,ARH-231-01,"Modern Art in Euro, 1900-1940",MW  ,2:30 PM  - 3:50 PM  ,"Anger, Jennifer A ",20 /20 ,4.00000,,RECORD COUNT 702
+90954,Active,ARH-250-01,Roman Archaeology and Art,MW  ,8:30 AM  - 9:50 AM  ,"Cummins, Monessa F ",17 /25 ,4.00000,,RECORD COUNT 702
+90827,Active,ARH-270-01,Modern Arch & Glblztn,TTH  ,8:30 AM  - 9:50 AM  ,"Rivera, Alfredo ",15 /20 ,4.00000,,RECORD COUNT 702
+91447,Active,ARH-295-01,ST Art & Lit Paris & Berlin,MWF  ,11:00 AM - 11:50 AM  ,"Mackenzie, Michael ",16 /20 ,4.00000,,RECORD COUNT 702
+91871,Active,ARH-295-02,ST: Haitian Art & Vis Cult,TTH  ,1:00 PM  - 2:20 PM  ,"Rivera, Alfredo; Moise, Petrouchka LL",17 /20 ,4.00000,,RECORD COUNT 702
+91126,Active,ARH-380-01,Theory & Methods Art History,MW  ,10:00 AM - 11:20 AM  ,"Anger, Jennifer A ",11 /12 ,4.00000,,RECORD COUNT 702
+90829,Active,ART-111-01,Introduction to the Studio,MW  ,8:00 AM  - 10:50 AM  ,"Strangfeld, Robin ",11 /15 ,4.00000,,RECORD COUNT 702
+90835,Active,ART-111-02,Introduction to the Studio,MW  ,1:00 PM  - 3:50 PM  ,"Strangfeld, Robin ",-3 /15 ,4.00000,,RECORD COUNT 702
+91525,Active,ART-134-01,Drawing,TTH  ,8:00 AM  - 10:50 AM  ,"Chen, Jeremy D ",-2 /15 ,4.00000,,RECORD COUNT 702
+91474,Active,ART-155-01,Introduction to Film Studies,TTH  ,8:00 AM  - 10:50 AM  ,"Perez, Nich ",6  /25 ,4.00000,,RECORD COUNT 702
+90830,Active,ART-236-01,Print Media,MW  ,8:00 AM  - 10:50 AM  ,"Kluber, Matthew ",8  /15 ,4.00000,,RECORD COUNT 702
+90838,Active,ART-242-01,Sculpture,TTH  ,1:00 PM  - 3:50 PM  ,"Chen, Jeremy D ",1  /15 ,4.00000,,RECORD COUNT 702
+91526,Active,ART-255-01,Fundamentals Video Production,TTH  ,1:00 PM  - 3:50 PM  ,"Perez, Nich ",9  /15 ,4.00000,,RECORD COUNT 702
+91908,Cancelled,ART-295-01,ST: Experimental Ceramics,MW  ,1:00 PM  - 3:50 PM  ,"Strangfeld, Robin ",15 /15 ,4.00000,,RECORD COUNT 702
+90832,Active,ART-310-01,Advanced Studio: Hybrid Media,MW  ,1:00 PM  - 3:50 PM  ,"Kluber, Matthew ",2  /12 ,4.00000,,RECORD COUNT 702
+91872,Active,ART-395-01,ST: Documentary,MW  ,1:00 PM  - 3:50 PM  ,"Perez, Nich ",9  /10 ,4.00000,,RECORD COUNT 702
+91991,Active,ART-395P-01,ST: Documentary,AR  ,,"Perez, Nich ",5  /5  ,2.00000,,RECORD COUNT 702
+90822,Active,ASC-101-01,Scholars' Seminar,MW  ,10:00 AM - 11:20 AM  ,"Backous, Belinda S ",20 /20 ,2.00000,,RECORD COUNT 702
+90823,Active,ASC-101-02,Scholars' Seminar,MW  ,1:00 PM  - 2:20 PM  ,"Ferraro, Katherine Frances ",20 /20 ,2.00000,,RECORD COUNT 702
+90875,Active,BCM-262-01,Intro Biological Chem w/lab,MWF  ,9:00 AM  - 9:50 AM  ,"Bailey, Charvann ",-7 /24 ,4.00000,,RECORD COUNT 702
+90876,Active,BCM-262-02,Intro Biological Chem w/lab,MWF  ,10:00 AM - 10:50 AM  ,"Peters, Kristi L ",15 /24 ,4.00000,,RECORD COUNT 702
+90877,Active,BCM-262L-01,Intro to Biological Chem Lab,T  ,1:00 PM  - 3:50 PM  ,"Bailey, Charvann ",8  /12 ,0.00000,,RECORD COUNT 702
+90878,Active,BCM-262L-02,Intro to Biological Chem Lab,TH  ,8:00 AM  - 10:50 AM  ,"Peters, Kristi L ",4  /12 ,0.00000,,RECORD COUNT 702
+90879,Active,BCM-262L-03,Intro to Biological Chem Lab,TH  ,1:00 PM  - 3:50 PM  ,"Hattery, Travis ",-10/12 ,0.00000,,RECORD COUNT 702
+90880,Active,BCM-262L-04,Intro to Biological Chem Lab,F  ,1:00 PM  - 3:50 PM  ,"Bailey, Charvann ",4  /12 ,0.00000,,RECORD COUNT 702
+90999,Active,BIO-150-01,Intro to Biolgcl Inqry w/lab,TTH  ,8:00 AM  - 10:50 AM  ,"Jacobson, Kathryn M ",0  /24 ,4.00000,,RECORD COUNT 702
+91001,Active,BIO-150-02,Intro to Biolgcl Inqry w/lab,MWF  ,10:00 AM - 11:50 AM  ,"Lafontant, Pascal ",17 /24 ,4.00000,,RECORD COUNT 702
+91002,Active,BIO-150-03,Intro to Biolgcl Inqry w/lab,TTH  ,1:00 PM  - 3:50 PM  ,"Meyers, Peter ",14 /24 ,4.00000,,RECORD COUNT 702
+91000,Active,BIO-150-04,Intro to Biolgcl Inqry w/lab,MWF  ,2:00 PM  - 3:50 PM  ,"Sandquist, Joshua C ",17 /24 ,4.00000,,RECORD COUNT 702
+91003,Active,BIO-252-01,"Orgnsms, Evoltn, Ecolgy w/lab",MF W,8:00 AM  - 9:50 AM 8:00 AM  - 10:50 AM,"Meyers, Peter ",11 /24 ,4.00000,,RECORD COUNT 702
+91006,Active,BIO-252-02,"Orgnsms, Evoltn, Ecolgy w/lab",MF T,10:00 AM - 11:50 AM 1:00 PM  - 3:50 PM ,"Eckhart, Vincent M ",7  /24 ,4.00000,,RECORD COUNT 702
+91004,Active,BIO-252-03,"Orgnsms, Evoltn, Ecolgy w/lab",MF W,2:00 PM  - 3:50 PM 1:00 PM  - 3:50 PM ,"Queathem, Elizabeth J ",-6 /24 ,4.00000,,RECORD COUNT 702
+91005,Cancelled,BIO-252-04,"Orgnsms, Evoltn, Ecolgy w/lab",TTH T,8:00 AM  - 9:50 AM 1:00 PM  - 3:50 PM ,"Staff, - ",24 /24 ,4.00000,,RECORD COUNT 702
+91009,Active,BIO-340-01,Aquatic Biology w/lab,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Jacobson, Peter J ",-8 /12 ,4.00000,,RECORD COUNT 702
+91011,Active,BIO-345-01,Advanced Genetics w/lab,MF  ,8:30 AM  - 9:50 AM  ,"Praitis, Vida ",10 /18 ,4.00000,,RECORD COUNT 702
+91016,Active,BIO-345L-01,Advanced Genetics Lab,W  ,1:00 PM  - 3:50 PM  ,"Praitis, Vida ",7  /10 ,0.00000,,RECORD COUNT 702
+91017,Active,BIO-345L-02,Advanced Genetics Lab,TH  ,1:00 PM  - 3:50 PM  ,"Praitis, Vida ",5  /10 ,0.00000,,RECORD COUNT 702
+91018,Active,BIO-363-01,Neurobiology w/lab,MF W,10:00 AM - 11:20 AM 9:00 AM  - 11:50 AM,"Lindgren, Clark A ",-3 /12 ,4.00000,,RECORD COUNT 702
+91647,Active,BIO-365-01,Microbiology w/lab,TTH  ,8:30 AM  - 9:50 AM  ,"Wang, Pu ",1  /18 ,4.00000,,RECORD COUNT 702
+91648,Active,BIO-365L-01,Microbiology Lab,T  ,1:00 PM  - 3:50 PM  ,"Wang, Pu ",0  /10 ,0.00000,,RECORD COUNT 702
+91649,Active,BIO-365L-02,Microbiology Lab,F  ,1:00 PM  - 3:50 PM  ,"Wang, Pu ",3  /10 ,0.00000,,RECORD COUNT 702
+91899,Active,BIO-375-01,Principles Phrmclgy w/lab,MWF TH,10:00 AM - 10:50 AM 1:00 PM  - 3:50 PM ,"Sandquist, Joshua C ",-4 /12 ,4.00000,,RECORD COUNT 702
+91900,Active,BIO-380-01,Molecular Biology w/lab,MWF  ,8:00 AM  - 9:50 AM  ,"Hattery, Travis ",9  /12 ,4.00000,,RECORD COUNT 702
+91022,Cancelled,BIO-390-01,Readings in Biology,M  ,7:00 PM  - 9:50 PM  ,"Staff, - ",18 /18 ,2.00000,,RECORD COUNT 702
+91019,Active,BIO-390-01,Readings in Biology,M  ,7:00 PM  - 9:50 PM  ,"Eckhart, Vincent M ",17 /18 ,2.00000,,RECORD COUNT 702
+91928,Active,BIO-395-01,ST: Cell/Molecular Bio w/lab,MWF  ,2:00 PM  - 3:50 PM  ,"Lafontant, Pascal ",5  /12 ,4.00000,,RECORD COUNT 702
+90939,Active,CHI-102-01,Beginning Chinese II,MWF  ,10:00 AM - 10:50 AM  ,"Tang, Qiaomei ",24 /25 ,4.00000,,RECORD COUNT 702
+90940,Active,CHI-102L-01,Beginning Chinese II Lab,TTH  ,10:00 AM - 10:50 AM  ,"Xi, Jie ",15 /15 ,0.00000,,RECORD COUNT 702
+90941,Active,CHI-102L-02,Beginning Chinese II Lab,TTH  ,2:00 PM  - 2:50 PM  ,"Xi, Jie ",14 /15 ,0.00000,,RECORD COUNT 702
+90942,Active,CHI-222-01,Intermediate Chinese II,MWF TTH,11:00 AM - 11:50 AM 1:00 PM  - 1:50 PM ,"Yang, Dong; Xi, Jie",17 /18 ,4.00000,,RECORD COUNT 702
+91924,Active,CHI-277-01,Modern China Thrgh Lit & Film,TTH  ,1:00 PM  - 2:20 PM  ,"Yang, Dong ",20 /25 ,4.00000,,RECORD COUNT 702
+90943,Active,CHI-332-01,Advanced Chinese II,MTWTHF  ,9:00 AM  - 9:50 AM  ,"Tang, Qiaomei; Xi, Jie",17 /18 ,4.00000,,RECORD COUNT 702
+90944,Active,CHI-498-01,Readings in Chinese Literature,MWF  ,8:00 AM  - 8:50 AM  ,"Yang, Dong ",14 /15 ,4.00000,,RECORD COUNT 702
+90881,Active,CHM-129-01,General Chemistry w/lab,MWF  ,8:00 AM  - 9:50 AM  ,"Marzluff, Elaine M ",16 /24 ,4.00000,,RECORD COUNT 702
+90882,Active,CHM-129-02,General Chemistry w/lab,MWF  ,3:00 PM  - 3:50 PM  ,"Ortiz, Corasi ",-1 /24 ,4.00000,,RECORD COUNT 702
+91410,Cancelled,CHM-129-02,General Chemistry w/lab,MWF  ,8:00 AM  - 8:50 AM  ,"Peters, Kristi L ",24 /24 ,4.00000,,RECORD COUNT 702
+90884,Active,CHM-129-03,General Chemistry w/lab,TTH  ,8:30 AM  - 9:50 AM  ,"Kamunde-Devonish, Maisha ",13 /24 ,4.00000,,RECORD COUNT 702
+90885,Active,CHM-129L-01,General Chemistry Lab,TH  ,8:00 AM  - 10:50 AM  ,"Sieck, Stephen R ",8  /24 ,0.00000,,RECORD COUNT 702
+90886,Active,CHM-129L-02,General Chemistry Lab,TH  ,1:00 PM  - 3:50 PM  ,"MacInnes, Molly M ",3  /24 ,0.00000,,RECORD COUNT 702
+91411,Active,CHM-129L-03,General Chemistry Lab,F  ,1:00 PM  - 3:50 PM  ,"Peters, Kristi L ",23 /24 ,0.00000,,RECORD COUNT 702
+90890,Active,CHM-210-01,Inorgnc & Analytcl Chem w/lab,MWF  ,9:00 AM  - 9:50 AM  ,"MacInnes, Molly M ",7  /24 ,4.00000,,RECORD COUNT 702
+90891,Active,CHM-210-02,Inorgnc & Analytcl Chem w/lab,MWF  ,10:00 AM - 10:50 AM  ,"Graham, Andrew M ",8  /24 ,4.00000,,RECORD COUNT 702
+90892,Active,CHM-210L-01,Inorgnc & Analytcl Chem Lab,T  ,1:00 PM  - 3:50 PM  ,"Mobley, Thomas Andrew ",-3 /16 ,0.00000,,RECORD COUNT 702
+90893,Active,CHM-210L-02,Inorgnc & Analytcl Chem Lab,W  ,1:00 PM  - 3:50 PM  ,"MacInnes, Molly M ",2  /16 ,0.00000,,RECORD COUNT 702
+90896,Active,CHM-222-01,Organic Chemistry II w/lab,MWF  ,8:00 AM  - 8:50 AM  ,"Sieck, Stephen R ",6  /24 ,4.00000,,RECORD COUNT 702
+90897,Active,CHM-222-02,Organic Chemistry II w/lab,MWF  ,11:00 AM - 11:50 AM  ,"Robb, Kevin A ",-9 /24 ,4.00000,,RECORD COUNT 702
+90898,Active,CHM-222-03,Organic Chemistry II w/lab,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Mobley, Thomas Andrew ",-9 /24 ,4.00000,,RECORD COUNT 702
+90900,Active,CHM-222L-01,Organic Chemistry II Lab,M  ,1:00 PM  - 3:50 PM  ,"Sieck, Stephen R ",12 /20 ,0.00000,,RECORD COUNT 702
+90901,Active,CHM-222L-02,Organic Chemistry II Lab,T  ,8:00 AM  - 10:50 AM  ,"Sieck, Stephen R ",9  /20 ,0.00000,,RECORD COUNT 702
+90902,Active,CHM-222L-03,Organic Chemistry II Lab,T  ,1:00 PM  - 3:50 PM  ,"Robb, Kevin A ",-13/20 ,0.00000,,RECORD COUNT 702
+90903,Active,CHM-222L-04,Organic Chemistry II Lab,TH  ,1:00 PM  - 3:50 PM  ,"Robb, Kevin A ",-7 /20 ,0.00000,,RECORD COUNT 702
+91951,Active,CHM-222L-05,Organic Chemistry II Lab,F  ,1:00 PM  - 3:50 PM  ,"Mobley, Thomas Andrew ",16 /20 ,0.00000,,RECORD COUNT 702
+90883,Active,CHM-240-01,Environ Chemistry w/Lab,TTH F,8:30 AM  - 9:50 AM 1:00 PM  - 3:50 PM ,"Graham, Andrew M ",18 /24 ,4.00000,,RECORD COUNT 702
+91923,Active,CHM-295-01,ST: Fndtn Inorg Chem w/lab,MWF W,9:00 AM  - 9:50 AM 1:00 PM  - 3:50 PM ,"Kamunde-Devonish, Maisha ",11 /12 ,4.00000,,RECORD COUNT 702
+90904,Active,CHM-332-01,Biophysical Chemistry w/lab,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Levandoski, Mark M ",3  /12 ,4.00000,,RECORD COUNT 702
+90905,Active,CHM-363-01,Physical Chemistry I w/lab,MWF  ,10:00 AM - 10:50 AM  ,"Hernandez, Heriberto ",10 /24 ,4.00000,,RECORD COUNT 702
+90906,Active,CHM-363L-01,Physical Chemistry I Lab,M  ,1:00 PM  - 3:50 PM  ,"Hernandez, Heriberto ",9  /12 ,0.00000,,RECORD COUNT 702
+90907,Active,CHM-363L-02,Physical Chemistry I Lab,T  ,1:00 PM  - 3:50 PM  ,"Ortiz, Corasi ",0  /12 ,0.00000,,RECORD COUNT 702
+90908,Active,CHM-364-01,Physical Chemistry II w/lab,MWF W,11:00 AM - 11:50 AM 1:00 PM  - 3:50 PM ,"Marzluff, Elaine M ",11 /12 ,4.00000,,RECORD COUNT 702
+90953,Active,CLS-250-01,Roman Archaeology and Art,MW  ,8:30 AM  - 9:50 AM  ,"Cummins, Monessa F ",17 /25 ,4.00000,,RECORD COUNT 702
+91979,Active,CLS-295-01,ST: Greek and Roman Histories,MWF  ,1:00 PM  - 1:50 PM  ,"Loehr, Regina M ",18 /20 ,4.00000,,RECORD COUNT 702
+91885,Active,CLS-395-01,"ST: Roman Rel, Ritual, Ident",TTH  ,8:30 AM  - 9:50 AM  ,"Wagner, Nicholas ",10 /15 ,4.00000,,RECORD COUNT 702
+90955,Active,CLS-495-01,Senior Seminar,F  ,1:00 PM  - 3:50 PM  ,"Cummins, W Joseph ",15 /15 ,4.00000,,RECORD COUNT 702
+90852,Active,CSC-105-01,The Digital Age w/lab,TTH  ,8:30 AM  - 9:50 AM  ,"Rodrigues, Elizabeth S ",20 /24 ,4.00000,,RECORD COUNT 702
+92003,Active,CSC-151-01,Functional Prob Solving w/lab,MWF  ,8:30 AM  - 9:50 AM  ,"Osera, Peter-Michael Santos ",-12/24 ,4.00000,,RECORD COUNT 702
+91412,Cancelled,CSC-151-01,Functional Prob Solving w/lab,MWF  ,8:30 AM  - 9:50 AM  ,"Osera, Peter-Michael Santos ",24 /24 ,4.00000,,RECORD COUNT 702
+91413,Cancelled,CSC-151-02,Functional Prob Solving w/lab,MWF  ,1:00 PM  - 2:20 PM  ,"Jimenez Pazmino, Priscilla Fernanda ",24 /24 ,4.00000,,RECORD COUNT 702
+92004,Active,CSC-151-02,Functional Prob Solving w/lab,MWF  ,1:00 PM  - 2:20 PM  ,"Jimenez Pazmino, Priscilla Fernanda ",18 /24 ,4.00000,,RECORD COUNT 702
+92005,Active,CSC-151-03,Functional Prob Solving w/lab,MWF  ,2:30 PM  - 3:50 PM  ,"Autry, Eric Arthur ",16 /24 ,4.00000,,RECORD COUNT 702
+91414,Cancelled,CSC-151-03,Functional Prob Solving w/lab,MWF  ,2:30 PM  - 3:50 PM  ,"Autry, Eric Arthur ",24 /24 ,4.00000,,RECORD COUNT 702
+91415,Active,CSC-161-01,Imperative Prob Solving w/lab,MWF  ,8:30 AM  - 9:50 AM  ,"Johnson, Barbara Z ",12 /24 ,4.00000,,RECORD COUNT 702
+91416,Active,CSC-161-02,Imperative Prob Solving w/lab,MWF  ,10:00 AM - 11:20 AM  ,"Johnson, Barbara Z ",0  /24 ,4.00000,,RECORD COUNT 702
+91417,Active,CSC-161-03,Imperative Prob Solving w/lab,MWF  ,2:30 PM  - 3:50 PM  ,"Johnson, Barbara Z ",-3 /24 ,4.00000,,RECORD COUNT 702
+90853,Active,CSC-207-01,"OO Prob Slvg, Data Struc/Alg",MWF  ,10:00 AM - 11:20 AM  ,"Eliott, Fernanda M. ",0  /24 ,4.00000,,RECORD COUNT 702
+90855,Active,CSC-207-02,"OO Prob Slvg, Data Struc/Alg",MWF  ,1:00 PM  - 2:20 PM  ,"Nye, Dawn ",-9 /24 ,4.00000,,RECORD COUNT 702
+90858,Active,CSC-208-01,Discrete Structures,TTH  ,2:00 PM  - 3:50 PM  ,"Osera, Peter-Michael Santos ",-8 /20 ,4.00000,,RECORD COUNT 702
+90863,Active,CSC-211-01,Comp Org/Architecture w/lab,MWF  ,10:00 AM - 11:50 AM  ,"Weinman, Jerod ",16 /24 ,4.00000,,RECORD COUNT 702
+90866,Active,CSC-211-02,Comp Org/Architecture w/lab,MWF  ,2:00 PM  - 3:50 PM  ,"Weinman, Jerod ",11 /24 ,4.00000,,RECORD COUNT 702
+90867,Active,CSC-301-01,Analysis of Algorithms,TTH  ,2:30 PM  - 3:50 PM  ,"Autry, Eric Arthur ",-6 /20 ,4.00000,,RECORD COUNT 702
+91995,Active,CSC-312-01,Programming Language Implmntn,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Osera, Peter-Michael Santos ",-4 /24 ,2.00000,,RECORD COUNT 702
+92012,Active,CSC-312P-01,Programming Language,AR  ,,"Osera, Peter-Michael Santos ",1  /1  ,2.00000,,RECORD COUNT 702
+90871,Active,CSC-324-01,Software Design & Dev w/Lab,MWF  ,2:00 PM  - 3:50 PM  ,"Eliott, Fernanda M. ",-15/16 ,4.00000,,RECORD COUNT 702
+90872,Active,CSC-326-01,Software Dev Leadership w/Lab,MWF  ,2:00 PM  - 3:50 PM  ,"Eliott, Fernanda M. ",6  /6  ,2.00000,,RECORD COUNT 702
+90873,Active,CSC-341-01,"Auto, Frm Lng, Cmp Cmplxty",T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Nye, Dawn ",1  /20 ,4.00000,,RECORD COUNT 702
+90874,Active,CSC-341-02,"Auto, Frm Lng, Cmp Cmplxty",TTH  ,2:00 PM  - 3:50 PM  ,"Nye, Dawn ",6  /20 ,4.00000,,RECORD COUNT 702
+91532,Active,CSC-395-01,ST: Human -Computer Intrctn,MW  ,10:00 AM - 11:20 AM  ,"Jimenez Pazmino, Priscilla Fernanda ",16 /20 ,4.00000,,RECORD COUNT 702
+91911,Active,EAS-295-01,ST: Jewish Exile in Shanghai,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Sun, Xiaoxue ",15 /20 ,4.00000,,RECORD COUNT 702
+91876,Active,EAS-395-01,ST: Gndr Post-WWII East Asia,TTH  ,8:30 AM  - 9:50 AM  ,"Yang, Wenqi ",14 /15 ,4.00000,,RECORD COUNT 702
+90831,Active,ECN-111-01,Introduction to Economics,MWF  ,9:00 AM  - 9:50 AM  ,"Brouhle, Keith R ",23 /26 ,4.00000,,RECORD COUNT 702
+90833,Active,ECN-111-02,Introduction to Economics,MWF  ,10:00 AM - 10:50 AM  ,"Brouhle, Keith R ",21 /26 ,4.00000,,RECORD COUNT 702
+90834,Active,ECN-111-03,Introduction to Economics,MWF  ,1:00 PM  - 1:50 PM  ,"Graham, Bradley ",5  /26 ,4.00000,,RECORD COUNT 702
+90836,Active,ECN-111-04,Introduction to Economics,MWF  ,2:00 PM  - 2:50 PM  ,"Kelly, Andrea M ",22 /26 ,4.00000,,RECORD COUNT 702
+90837,Active,ECN-111-05,Introduction to Economics,MWF  ,3:00 PM  - 3:50 PM  ,"Kelly, Andrea M ",19 /26 ,4.00000,,RECORD COUNT 702
+90840,Active,ECN-236-01,Health Economics,MWF  ,8:00 AM  - 8:50 AM  ,"Kelly, Andrea M ",12 /25 ,4.00000,,RECORD COUNT 702
+90842,Active,ECN-280-01,Microeconomic Analysis,MWF  ,11:00 AM - 11:50 AM  ,"McGavock, Tamara ",-3 /25 ,4.00000,,RECORD COUNT 702
+90841,Cancelled,ECN-280-01,Microeconomic Analysis,MWF  ,10:00 AM - 10:50 AM  ,"McGavock, Tamara ",25 /25 ,4.00000,,RECORD COUNT 702
+90843,Active,ECN-282-01,Macroeconomic Analysis,MW  ,10:00 AM - 11:20 AM  ,"Mao, Ruoyun ",-2 /25 ,4.00000,,RECORD COUNT 702
+90844,Active,ECN-286-01,Econometrics,TTH  ,8:30 AM  - 9:50 AM  ,"Paker, Meredith M ",0  /20 ,4.00000,,RECORD COUNT 702
+91497,Active,ECN-295-01,ST: Economic History,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Paker, Meredith M ",21 /25 ,4.00000,,RECORD COUNT 702
+91877,Active,ECN-295-02,ST: Industrial Organization,MWF  ,10:00 AM - 10:50 AM  ,"Graham, Bradley ",-2 /25 ,4.00000,,RECORD COUNT 702
+91909,Active,ECN-295-03,ST: Behavioral Economics,TTH  ,2:00 PM  - 3:50 PM  ,"Nandy, Abhinaba ",14 /26 ,4.00000,,RECORD COUNT 702
+90845,Active,ECN-327-01,Corporate Finance,TTH  ,8:30 AM  - 9:50 AM  ,"Ohrn, Eric Carl ",2  /20 ,4.00000,,RECORD COUNT 702
+90846,Active,ECN-338-01,Applied Game Theory,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Nandy, Abhinaba ",14 /20 ,4.00000,,RECORD COUNT 702
+90847,Active,ECN-370-01,Seminar in Political Economy,TTH  ,2:00 PM  - 3:50 PM  ,"Ferguson, William D ",12 /12 ,4.00000,,RECORD COUNT 702
+90848,Active,ECN-372-01,Sem Economic Development,MW  ,2:00 PM  - 3:50 PM  ,"McGavock, Tamara ",11 /12 ,4.00000,,RECORD COUNT 702
+90849,Active,ECN-380-01,Seminar in Monetary Economics,MW  ,2:00 PM  - 3:50 PM  ,"Mao, Ruoyun ",12 /12 ,4.00000,,RECORD COUNT 702
+91498,Active,ECN-395-01,ST Seminar Corporate Taxation,TTH  ,2:00 PM  - 3:50 PM  ,"Ohrn, Eric Carl ",11 /12 ,4.00000,,RECORD COUNT 702
+90960,Active,EDU-101-01,Education Princ/Plural Society,MWF  ,3:00 PM  - 3:50 PM  ,"Jakubiak, Cora ",15 /25 ,4.00000,,RECORD COUNT 702
+90961,Active,EDU-101-02,Education Princ/Plural Society,TTH  ,2:30 PM  - 3:50 PM  ,"Larson, Jonathan L ",10 /25 ,4.00000,,RECORD COUNT 702
+90969,Active,EDU-115-01,How to Learn Physics,MWF  ,10:00 AM - 11:50 AM  ,"Hutchison, Paul ",12 /24 ,4.00000,,RECORD COUNT 702
+90965,Active,EDU-215-01,Reading & Writing Youth Cult,MWF  ,1:00 PM  - 1:50 PM  ,"Jones, Stephanie ",6  /25 ,4.00000,,RECORD COUNT 702
+90971,Active,EDU-217-01,Comparative & Int'l Education,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Larson, Jonathan L ",12 /20 ,4.00000,,RECORD COUNT 702
+90967,Active,EDU-221-01,Educational Psychology,MWF  ,1:00 PM  - 2:20 PM  ,"Hutchison, Paul ",7  /15 ,4.00000,,RECORD COUNT 702
+91878,Cancelled,EDU-295-01,ST: Curriculum Wars,TTH  ,2:30 PM  - 3:50 PM  ,"Swalwell, Katy ",30 /30 ,2.00000,,RECORD COUNT 702
+91142,Active,EDU-301-01,Teaching & Tutoring Writing,TTH  ,2:30 PM  - 3:50 PM  ,"Turk, Martisha ",14 /15 ,4.00000,,RECORD COUNT 702
+90963,Active,EDU-340-01,Res/Meth: Teaching Young Adult,MWF  ,8:30 AM  - 9:50 AM  ,"Jones, Stephanie ",15 /15 ,4.00000,,RECORD COUNT 702
+90964,Active,EDU-341-01,Res/Meth: Learn Lang/Arts/Rdg,W  ,2:00 PM  - 3:50 PM  ,"Jones, Stephanie ",10 /10 ,2.00000,,RECORD COUNT 702
+90962,Active,EDU-342-01,Res/Meth: Lrnng World Languges,AR  ,,"Jakubiak, Cora ",10 /10 ,2.00000,,RECORD COUNT 702
+90972,Active,EDU-343-01,Res/Meth: Learn Social Studies,M  ,2:00 PM  - 3:50 PM  ,"Staff, - ",10 /10 ,2.00000,,RECORD COUNT 702
+90968,Active,EDU-345-01,Res/Meth: Learning in Science,AR  ,,"Hutchison, Paul ",10 /10 ,2.00000,,RECORD COUNT 702
+91891,Active,EDU-357-01,Feminist Educations,MW  ,8:30 AM  - 9:50 AM  ,"Beauboeuf, Tamara M ",1  /15 ,4.00000,,RECORD COUNT 702
+91455,Cancelled,EDU-395-01,ST: Educating Women,MW  ,10:00 AM - 11:50 AM  ,"Beauboeuf, Tamara M ",20 /20 ,4.00000,,RECORD COUNT 702
+91386,Cancelled,ENG-120-01,Literary Analysis,MWF  ,8:00 AM  - 8:50 AM  ,"Andrews, Stephen R ",20 /20 ,4.00000,,RECORD COUNT 702
+91387,Active,ENG-120-01,Literary Analysis,MWF  ,1:00 PM  - 1:50 PM  ,"Lavan, Makeba N ",9  /20 ,4.00000,,RECORD COUNT 702
+91388,Active,ENG-120-02,Literary Analysis,MWF  ,3:00 PM  - 3:50 PM  ,"Jacobson, Carolyn ",19 /20 ,4.00000,,RECORD COUNT 702
+91399,Active,ENG-120-03,Literary Analysis,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Kapila, Shuchi ",18 /20 ,4.00000,,RECORD COUNT 702
+91401,Active,ENG-121-01,Introduction to Shakespeare,MWF  ,9:00 AM  - 9:50 AM  ,"Likert, Nathaniel Philip ",20 /20 ,4.00000,,RECORD COUNT 702
+91402,Active,ENG-121-02,Introduction to Shakespeare,MWF  ,1:00 PM  - 1:50 PM  ,"Likert, Nathaniel Philip ",19 /20 ,4.00000,,RECORD COUNT 702
+90868,Active,ENG-204-01,The Craft of Argument,TTH  ,8:30 AM  - 9:50 AM  ,"Abdelkarim, Sherif M ",7  /15 ,4.00000,,RECORD COUNT 702
+90869,Active,ENG-205-01,The Craft of Fiction,MW  ,10:00 AM - 11:20 AM  ,"Bakopoulos, Constantine ",-1 /15 ,4.00000,,RECORD COUNT 702
+90870,Active,ENG-205-02,The Craft of Fiction,MWF  ,3:00 PM  - 3:50 PM  ,"Sanchez, Santiago Jose ",3  /15 ,4.00000,,RECORD COUNT 702
+91389,Active,ENG-210-01,Studies in Genre,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Smith, Paula V ",16 /25 ,4.00000,,RECORD COUNT 702
+90966,Active,ENG-215-01,Reading & Writing Youth Cult,MWF  ,1:00 PM  - 1:50 PM  ,"Jones, Stephanie ",6  /25 ,4.00000,,RECORD COUNT 702
+91484,Active,ENG-223-01,Tradition of English Lit I,MWF  ,3:00 PM  - 3:50 PM  ,"Likert, Nathaniel Philip ",21 /25 ,4.00000,,RECORD COUNT 702
+91390,Active,ENG-224-01,Tradition of English Lit II,MWF  ,11:00 AM - 11:50 AM  ,"Jacobson, Carolyn ",9  /25 ,4.00000,,RECORD COUNT 702
+91392,Active,ENG-229-01,Tradition African Amer Lit,MW  ,2:30 PM  - 3:50 PM  ,"Lavan, Makeba N ",19 /25 ,4.00000,,RECORD COUNT 702
+91393,Active,ENG-231-01,American Lit Traditions III,MW  ,10:00 AM - 11:20 AM  ,"Phan, Hai-Dang D ",18 /25 ,4.00000,,RECORD COUNT 702
+91913,Active,ENG-295-01,ST: Miscegenation Nation,TTH  ,2:30 PM  - 3:50 PM  ,"Lavan, Makeba N ",21 /25 ,2.00000,,RECORD COUNT 702
+91395,Active,ENG-325-01,Studies in Ethnic Am Lit,MW  ,1:00 PM  - 2:20 PM  ,"Phan, Hai-Dang D ",2  /15 ,4.00000,,RECORD COUNT 702
+91394,Active,ENG-349-01,Medieval Literature,TTH  ,1:00 PM  - 2:20 PM  ,"Abdelkarim, Sherif M ",3  /15 ,4.00000,,RECORD COUNT 702
+91396,Active,ENG-360-01,Seminar in Postcolonial Lit,TTH  ,2:00 PM  - 3:50 PM  ,"Kapila, Shuchi ",15 /15 ,4.00000,,RECORD COUNT 702
+91397,Active,ENG-385-01,Writing Seminar: Fiction,M  ,7:00 PM  - 9:50 PM  ,"Bakopoulos, Constantine ",-1 /15 ,4.00000,,RECORD COUNT 702
+90851,Active,ENV-120-01,Environ Challenge & Responses,TH  ,1:00 PM  - 1:50 PM  ,"Eckhart, Vincent M; Staff, -",-6 /10 ,1.00000,,RECORD COUNT 702
+91483,Active,ENV-240-01,Environ Chemistry w/Lab,TTH F,8:30 AM  - 9:50 AM 1:00 PM  - 3:50 PM ,"Graham, Andrew M ",18 /24 ,4.00000,,RECORD COUNT 702
+90850,Active,ENV-495-01,Senior Seminar,TTH  ,2:00 PM  - 3:50 PM  ,"Campbell, David G ",10 /15 ,4.00000,,RECORD COUNT 702
+91565,Active,FMS-155-01,Introduction to Film Studies,TTH  ,8:00 AM  - 10:50 AM  ,"Perez, Nich ",6  /25 ,4.00000,,RECORD COUNT 702
+91997,Active,FMS-195-01,ST: Intro to Sound Studies,MWF  ,8:00 AM  - 8:50 AM  ,"Sutaria, Sejal ",21 /25 ,4.00000,,RECORD COUNT 702
+91568,Active,FMS-255-01,Fundamentals Video Production,TTH  ,1:00 PM  - 3:50 PM  ,"Perez, Nich ",9  /15 ,4.00000,,RECORD COUNT 702
+91873,Active,FMS-395-01,ST: Documentary,MW  ,1:00 PM  - 3:50 PM  ,"Perez, Nich ",9  /10 ,4.00000,,RECORD COUNT 702
+91999,Active,FMS-395-02,"ST: Culture, Media, & Soc Jus",MW  ,10:00 AM - 11:50 AM  ,"Sutaria, Sejal ",14 /15 ,4.00000,,RECORD COUNT 702
+91992,Active,FMS-395P-01,ST: Documentary,AR  ,,"Perez, Nich ",5  /5  ,2.00000,,RECORD COUNT 702
+91020,Active,FRN-102-01,Introduction to French II,MTWF  ,9:00 AM  - 9:50 AM  ,"Galbraith, Hadley ",24 /24 ,5.00000,,RECORD COUNT 702
+91021,Active,FRN-102-02,Introduction to French II,MTWF  ,11:00 AM - 11:50 AM  ,"Ozalakus, Nurseren ",24 /24 ,5.00000,,RECORD COUNT 702
+91023,Active,FRN-201-01,French Cnvrstn Thru Media,TTH  ,1:00 PM  - 1:50 PM  ,"Ozalakus, Nurseren ",9  /10 ,1.00000,,RECORD COUNT 702
+91024,Active,FRN-221-01,Intermediate French I,MWF  ,9:00 AM  - 9:50 AM  ,"Harrison, David ",15 /15 ,4.00000,,RECORD COUNT 702
+91025,Active,FRN-222-01,Intermediate French II,MWF  ,10:00 AM - 10:50 AM  ,"Galbraith, Hadley ",14 /15 ,4.00000,,RECORD COUNT 702
+91026,Active,FRN-222-02,Intermediate French II,MWF  ,2:00 PM  - 2:50 PM  ,"Harrison, David ",14 /15 ,4.00000,,RECORD COUNT 702
+91027,Active,FRN-302-01,Phonetics & Adv Oral Expr,MWF  ,1:00 PM  - 1:50 PM  ,"Moisan, Philippe J ",14 /15 ,2.00000,,RECORD COUNT 702
+91028,Active,FRN-305-01,Contmp Francophone Culture,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Tricoire, Marion ",15 /15 ,4.00000,,RECORD COUNT 702
+91029,Active,FRN-312-01,Frn Lit Frm Knights/Libertines,MWF  ,11:00 AM - 11:50 AM  ,"Harrison, David ",14 /15 ,4.00000,,RECORD COUNT 702
+91030,Active,FRN-350-01,Adv Tpcs: Masc/Fem Frn Lit/Flm,MW  ,2:00 PM  - 3:50 PM  ,"Moisan, Philippe J ",9  /12 ,4.00000,,RECORD COUNT 702
+91449,Active,FRN-395-01,ST: Fiction Francophone,TTH  ,2:00 PM  - 3:50 PM  ,"Tricoire, Marion ",8  /12 ,4.00000,,RECORD COUNT 702
+91952,Active,FYE-100-01,FYE: Connections,M  ,8:30 AM  - 9:50 AM  ,"Staff, - ",25 /25 ,0.50000,,RECORD COUNT 702
+91957,Active,FYE-100-02,FYE: Connections,T  ,8:30 AM  - 9:50 AM  ,"Staff, - ",11 /25 ,0.50000,,RECORD COUNT 702
+91958,Active,FYE-100-03,FYE: Connections,T  ,8:30 AM  - 9:50 AM  ,"Staff, - ",21 /25 ,0.50000,,RECORD COUNT 702
+91959,Active,FYE-100-04,FYE: Connections,T  ,8:30 AM  - 9:50 AM  ,"Staff, - ",19 /25 ,0.50000,,RECORD COUNT 702
+91968,Active,FYE-100-05,FYE: Connections,T  ,8:30 AM  - 9:50 AM  ,"Staff, - ",21 /25 ,0.50000,,RECORD COUNT 702
+91953,Active,FYE-100-06,FYE: Connections,W  ,8:30 AM  - 9:50 AM  ,"Staff, - ",24 /25 ,0.50000,,RECORD COUNT 702
+91961,Active,FYE-100-07,FYE: Connections,TH  ,8:30 AM  - 9:50 AM  ,"Staff, - ",18 /25 ,0.50000,,RECORD COUNT 702
+91962,Active,FYE-100-08,FYE: Connections,TH  ,8:30 AM  - 9:50 AM  ,"Staff, - ",25 /25 ,0.50000,,RECORD COUNT 702
+91960,Active,FYE-100-09,FYE: Connections,TH  ,8:30 AM  - 9:50 AM  ,"Staff, - ",25 /25 ,0.50000,,RECORD COUNT 702
+91969,Active,FYE-100-10,FYE: Connections,TH  ,8:30 AM  - 9:50 AM  ,"Staff, - ",25 /25 ,0.50000,,RECORD COUNT 702
+91963,Active,FYE-100-11,FYE: Connections,F  ,8:30 AM  - 9:50 AM  ,"Staff, - ",25 /25 ,0.50000,,RECORD COUNT 702
+91954,Active,FYE-100-12,FYE: Connections,F  ,8:30 AM  - 9:50 AM  ,"Staff, - ",24 /25 ,0.50000,,RECORD COUNT 702
+91964,Active,FYE-100-13,FYE: Connections,T  ,1:00 PM  - 2:20 PM  ,"Staff, - ",1  /25 ,0.50000,,RECORD COUNT 702
+91970,Active,FYE-100-14,FYE: Connections,TH  ,1:00 PM  - 2:20 PM  ,"Staff, - ",15 /25 ,0.50000,,RECORD COUNT 702
+91965,Active,FYE-100-15,FYE: Connections,T  ,2:30 PM  - 3:50 PM  ,"Staff, - ",21 /25 ,0.50000,,RECORD COUNT 702
+91966,Active,FYE-100-16,FYE: Connections,T  ,2:30 PM  - 3:50 PM  ,"Staff, - ",23 /25 ,0.50000,,RECORD COUNT 702
+91967,Active,FYE-100-17,FYE: Connections,T  ,2:30 PM  - 3:50 PM  ,"Staff, - ",23 /25 ,0.50000,,RECORD COUNT 702
+91971,Active,FYE-100-18,FYE: Connections,TH  ,2:30 PM  - 3:50 PM  ,"Staff, - ",24 /25 ,0.50000,,RECORD COUNT 702
+91972,Active,FYE-100-19,FYE: Connections,TH  ,2:30 PM  - 3:50 PM  ,"Staff, - ",25 /25 ,0.50000,,RECORD COUNT 702
+91973,Active,FYE-100-20,FYE: Connections,TH  ,2:30 PM  - 3:50 PM  ,"Staff, - ",24 /25 ,0.50000,,RECORD COUNT 702
+91974,Active,FYE-100-21,FYE: Connections,M  ,7:00 PM  - 8:20 PM  ,"Staff, - ",13 /25 ,0.50000,,RECORD COUNT 702
+91975,Active,FYE-100-22,FYE: Connections,M  ,7:00 PM  - 8:20 PM  ,"Staff, - ",23 /25 ,0.50000,,RECORD COUNT 702
+91976,Active,FYE-100-23,FYE: Connections,M  ,7:00 PM  - 8:20 PM  ,"Staff, - ",22 /25 ,0.50000,,RECORD COUNT 702
+91977,Active,FYE-100-24,FYE: Connections,M  ,7:00 PM  - 8:20 PM  ,"Staff, - ",23 /25 ,0.50000,,RECORD COUNT 702
+91978,Active,FYE-100-25,FYE: Connections,M  ,7:00 PM  - 8:20 PM  ,"Staff, - ",1  /25 ,0.50000,,RECORD COUNT 702
+90821,Active,GDS-111-01,Intro to Global Dev Studies,MWF  ,10:00 AM - 10:50 AM  ,"Roper, Jackson Montgomery ",17 /25 ,4.00000,,RECORD COUNT 702
+91895,Active,GLS-195-01,ST: Russ Fairy Tale/Chldrn Lt,MWF  ,9:00 AM  - 9:50 AM  ,"Herold, Kelly ",19 /25 ,4.00000,,RECORD COUNT 702
+91286,Active,GLS-251-01,Children's & Young Adult Lit,MWF  ,2:00 PM  - 2:50 PM  ,"Greene, Raquel G ",22 /25 ,4.00000,,RECORD COUNT 702
+91384,Active,GLS-259-01,Criminals Outcasts Grm Cult,MWF  ,3:00 PM  - 3:50 PM  ,"Reynolds, Daniel P ",29 /30 ,4.00000,,RECORD COUNT 702
+91078,Cancelled,GLS-261-01,History of Russian Film,MW  ,2:00 PM  - 3:50 PM  ,"Armstrong, Todd Patrick ",25 /25 ,4.00000,,RECORD COUNT 702
+91925,Active,GLS-277-01,Modern China Thrgh Lit & Film,TTH  ,1:00 PM  - 2:20 PM  ,"Yang, Dong ",20 /25 ,4.00000,,RECORD COUNT 702
+91510,Active,GLS-291-01,Prspctv 20C Cntrl & E Euro Lit,MWF  ,2:00 PM  - 2:50 PM  ,"Armstrong, Todd Patrick ",22 /25 ,4.00000,,RECORD COUNT 702
+91937,Active,GLS-295-01,ST: Arabic Tales and Falsafa,TTH  ,1:00 PM  - 2:20 PM  ,"Abdelfattah, Heba Arafa ",25 /25 ,4.00000,,RECORD COUNT 702
+91710,Active,GLS-349-01,Medieval Literature,TTH  ,1:00 PM  - 2:20 PM  ,"Abdelkarim, Sherif M ",3  /15 ,4.00000,,RECORD COUNT 702
+91405,Active,GLS-350-01,Theatre Methods: Dramaturgy,MW  ,2:00 PM  - 3:50 PM  ,"Miller, Kristina K ",19 /20 ,4.00000,,RECORD COUNT 702
+90956,Active,GRE-222-01,Intermediate Greek,MTWTHF  ,10:00 AM - 10:50 AM  ,"Loehr, Regina M ",14 /15 ,5.00000,,RECORD COUNT 702
+90957,Active,GRE-305-01,Greek Poetry,MW  ,2:00 PM  - 3:50 PM  ,"Cummins, Monessa F ",15 /15 ,4.00000,,RECORD COUNT 702
+90978,Active,GRM-102-01,Introductory German II,MWF  ,10:00 AM - 10:50 AM  ,"Poetzl, Victoria ",19 /20 ,4.00000,,RECORD COUNT 702
+90979,Active,GRM-102-02,Introductory German II,MWF  ,1:00 PM  - 1:50 PM  ,"Sun, Xiaoxue ",20 /20 ,4.00000,,RECORD COUNT 702
+90980,Active,GRM-102L-01,Continuing German Lab,TH  ,10:00 AM - 10:50 AM  ,"Staff, - ",10 /10 ,0.00000,,RECORD COUNT 702
+90981,Active,GRM-102L-02,Continuing German Lab,TH  ,1:00 PM  - 1:50 PM  ,"Staff, - ",10 /10 ,0.00000,,RECORD COUNT 702
+90982,Active,GRM-102L-03,Continuing German Lab,F  ,1:00 PM  - 1:50 PM  ,"Staff, - ",10 /10 ,0.00000,,RECORD COUNT 702
+90983,Active,GRM-102L-04,Continuing German Lab,F  ,3:00 PM  - 3:50 PM  ,"Staff, - ",9  /10 ,0.00000,,RECORD COUNT 702
+90984,Active,GRM-222-01,Intermediate German II,MWF  ,11:00 AM - 11:50 AM  ,"Poetzl, Victoria ",19 /20 ,4.00000,,RECORD COUNT 702
+90987,Active,GRM-259-01,Criminals Outcasts Grm Cult,MWF  ,3:00 PM  - 3:50 PM  ,"Reynolds, Daniel P ",29 /30 ,4.00000,,RECORD COUNT 702
+91910,Active,GRM-295-01,ST: Jewish Exile in Shanghai,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Sun, Xiaoxue ",15 /20 ,4.00000,,RECORD COUNT 702
+91888,Active,GRM-350-01,Avant-Garde to Postmod Grm Clt,TTH  ,2:00 PM  - 3:50 PM  ,"Sun, Xiaoxue ",14 /15 ,4.00000,,RECORD COUNT 702
+90985,Cancelled,GRM-355-01,Weimar Culture,TTH  ,2:00 PM  - 3:50 PM  ,"Staff, - ",15 /15 ,4.00000,,RECORD COUNT 702
+90986,Active,GRM-372-01,Creative Writing in German,M  ,7:00 PM  - 9:50 PM  ,"Staff, - ",13 /15 ,1.00000,2.00000,RECORD COUNT 702
+90977,Active,GWS-111-01,"Intro Gndr, Wmn's & Sxlty Stud",MWF  ,9:00 AM  - 9:50 AM  ,"Montague, Clara Margaret ",17 /25 ,4.00000,,RECORD COUNT 702
+90973,Active,GWS-111-02,"Intro Gndr, Wmn's & Sxlty Stud",T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Allen, Leah ",8  /25 ,4.00000,,RECORD COUNT 702
+91927,Active,GWS-195-01,ST: Living Well Cross-Cltrly,TTH  ,2:00 PM  - 3:50 PM  ,"Tapias, Maria; Lewis, Carolyn Herbst",13 /15 ,4.00000,,RECORD COUNT 702
+90976,Active,GWS-235-01,Feminism and Popular Culture,TTH  ,1:00 PM  - 2:20 PM  ,"Yang, Wenqi ",18 /25 ,4.00000,,RECORD COUNT 702
+91453,Cancelled,GWS-295-01,ST: Women of Global Waters,MWF  ,8:00 AM  - 8:50 AM  ,"Beauboeuf, Tamara M ",20 /20 ,4.00000,,RECORD COUNT 702
+91930,Active,GWS-295-01,ST: Queering Digtl Humanities,MW  ,2:30 PM  - 3:50 PM  ,"Montague, Clara Margaret ",7  /20 ,4.00000,,RECORD COUNT 702
+91890,Active,GWS-357-01,Feminist Educations,MW  ,8:30 AM  - 9:50 AM  ,"Beauboeuf, Tamara M ",1  /15 ,4.00000,,RECORD COUNT 702
+91454,Cancelled,GWS-395-01,ST: Educating Women,MW  ,10:00 AM - 11:50 AM  ,"Beauboeuf, Tamara M ",20 /20 ,4.00000,,RECORD COUNT 702
+91875,Active,GWS-395-02,ST: Gndr Post-WWII East Asia,TTH  ,8:30 AM  - 9:50 AM  ,"Yang, Wenqi ",14 /15 ,4.00000,,RECORD COUNT 702
+90974,Active,GWS-495-01,"Bad Feminists, Bad Critics",MW  ,10:00 AM - 11:50 AM  ,"Allen, Leah ",10 /15 ,4.00000,,RECORD COUNT 702
+90975,Active,GWS-495-02,"Bad Feminists, Bad Critics",TTH  ,2:00 PM  - 3:50 PM  ,"Allen, Leah ",13 /15 ,4.00000,,RECORD COUNT 702
+90988,Active,HIS-100-01,The Prophet Muhammad,MWF  ,9:00 AM  - 9:50 AM  ,"Saba, Elias G ",23 /25 ,4.00000,,RECORD COUNT 702
+90990,Active,HIS-100-02,"Guns/Germs, Steel & Spn Cnqst",T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Silva, J Pablo ",16 /25 ,4.00000,,RECORD COUNT 702
+90991,Active,HIS-201-01,Colonial Latin America,MWF  ,10:00 AM - 10:50 AM  ,"Silva, J Pablo ",23 /25 ,4.00000,,RECORD COUNT 702
+90992,Active,HIS-214-01,Amer Civil War/Reconstruction,MWF  ,11:00 AM - 11:50 AM  ,"Purcell, Sarah J ",17 /25 ,4.00000,,RECORD COUNT 702
+90993,Active,HIS-226-01,Nat Amer Hist 1871-Prsnt,MWF  ,1:00 PM  - 1:50 PM  ,"Lacson, Paul Albert ",17 /25 ,4.00000,,RECORD COUNT 702
+90994,Active,HIS-227-01,African American History,MWF  ,8:00 AM  - 8:50 AM  ,"Lacson, Paul Albert ",24 /25 ,4.00000,,RECORD COUNT 702
+90995,Active,HIS-233-01,"Renaissance, Rfrmtns, Explrtns",TTH  ,1:00 PM  - 2:20 PM  ,"Chou, Catherine ",21 /25 ,4.00000,,RECORD COUNT 702
+90996,Active,HIS-237-01,The Spectacle of Modern France,MW  ,1:00 PM  - 2:20 PM  ,"Maynard, Kelly ",13 /25 ,4.00000,,RECORD COUNT 702
+90997,Active,HIS-265-01,The Crusades in Middle East,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Saba, Elias G ",11 /25 ,4.00000,,RECORD COUNT 702
+91898,Active,HIS-282-01,Contextualizing Opera,AR  ,,"Maynard, Kelly ",12 /12 ,2.00000,,RECORD COUNT 702
+91007,Active,HIS-283-01,Whn the Wrld Became Global,TTH  ,8:30 AM  - 9:50 AM  ,"Chou, Catherine ",21 /25 ,4.00000,,RECORD COUNT 702
+91008,Active,HIS-284-01,Surveillance Modern History,MWF  ,1:00 PM  - 1:50 PM  ,"Cohn, Edward D ",16 /25 ,4.00000,,RECORD COUNT 702
+91457,Active,HIS-295-01,ST: Fdnts of US Popular Cultr,TTH  ,1:00 PM  - 2:20 PM  ,"Purcell, Sarah J ",9  /25 ,4.00000,,RECORD COUNT 702
+91574,Cancelled,HIS-295-02,ST: Craft Histories,MW  ,2:30 PM  - 3:50 PM  ,"Maynard, Kelly ",15 /15 ,2.00000,,RECORD COUNT 702
+91931,Active,HIS-295-02,ST: Mod China: Hist frm Mrgns,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Smith, Jomo R ",24 /25 ,4.00000,,RECORD COUNT 702
+91932,Active,HIS-295-03,ST: Modern Japan,MWF  ,3:00 PM  - 3:50 PM  ,"Smith, Jomo R ",21 /25 ,4.00000,,RECORD COUNT 702
+91980,Active,HIS-295-04,ST: Greek and Roman Histories,MWF  ,1:00 PM  - 1:50 PM  ,"Loehr, Regina M ",18 /20 ,4.00000,,RECORD COUNT 702
+91012,Active,HIS-309-01,Latin America and the U.S.,MW  ,2:00 PM  - 3:50 PM  ,"Silva, J Pablo ",8  /12 ,4.00000,,RECORD COUNT 702
+91013,Active,HIS-327-01,Civil Rights Movement,TTH  ,2:30 PM  - 3:50 PM  ,"Lacson, Paul Albert ",10 /12 ,4.00000,,RECORD COUNT 702
+91014,Active,HIS-342-01,Stalinism,TTH  ,2:30 PM  - 3:50 PM  ,"Cohn, Edward D ",6  /12 ,4.00000,,RECORD COUNT 702
+91897,Active,HIS-377-01,Issues Making Modern China,MW  ,8:30 AM  - 9:50 AM  ,"Smith, Jomo R ",12 /12 ,4.00000,,RECORD COUNT 702
+91010,Active,HIS-382-01,Modern Classics Hstrcl Wrtng,AR  ,,"Chou, Catherine ",9  /12 ,4.00000,,RECORD COUNT 702
+91398,Active,HUM-101-01,Hum I: Ancient Greek World,TTH  ,2:30 PM  - 3:50 PM  ,"Smith, Paula V ",17 /20 ,4.00000,,RECORD COUNT 702
+91892,Active,HUM-120-01,Intro to Material Cult Stds,TTH  ,1:00 PM  - 3:50 PM  ,"Maynard, Kelly ",7  /12 ,4.00000,,RECORD COUNT 702
+91575,Cancelled,HUM-195-01,ST: Intro Material Cult Stds,TTH  ,1:00 PM  - 3:50 PM  ,"Maynard, Kelly ",12 /12 ,4.00000,,RECORD COUNT 702
+91996,Active,HUM-195-02,ST: Intro to Sound Studies,MWF  ,8:00 AM  - 8:50 AM  ,"Sutaria, Sejal ",21 /25 ,4.00000,,RECORD COUNT 702
+91121,Cancelled,HUM-200-01,Learning From Alumni,F  ,2:00 PM  - 3:50 PM  ,"Rietz, Henry W Morisada ",30 /30 ,2.00000,,RECORD COUNT 702
+91285,Active,HUM-251-01,Children's & Young Adult Lit,MWF  ,2:00 PM  - 2:50 PM  ,"Greene, Raquel G ",22 /25 ,4.00000,,RECORD COUNT 702
+91881,Active,HUM-295-01,ST: Dig Journ Pub: New Apprch,MWF  ,2:00 PM  - 2:50 PM  ,"Andelson, Jonathan; Baechtel, Mark",13 /16 ,4.00000,,RECORD COUNT 702
+91912,Active,HUM-295-02,ST: Miscegenation Nation,TTH  ,2:30 PM  - 3:50 PM  ,"Lavan, Makeba N ",21 /25 ,2.00000,,RECORD COUNT 702
+91933,Active,HUM-295-03,ST: Soc Chng Mid East Cinema,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Abdelfattah, Heba Arafa ",23 /25 ,4.00000,,RECORD COUNT 702
+91935,Active,HUM-295-04,ST: Arabic Tales and Falsafa,TTH  ,1:00 PM  - 2:20 PM  ,"Abdelfattah, Heba Arafa ",25 /25 ,4.00000,,RECORD COUNT 702
+91938,Active,HUM-295-05,ST: Popular Arabic Film,TTH  ,2:30 PM  - 3:50 PM  ,"Abdelfattah, Heba Arafa ",24 /25 ,4.00000,,RECORD COUNT 702
+91998,Active,HUM-395-01,"ST: Culture, Media, & Soc Jus",MW  ,10:00 AM - 11:50 AM  ,"Sutaria, Sejal ",14 /15 ,4.00000,,RECORD COUNT 702
+90945,Active,JPN-102-01,Beginning Japanese II,MWF  ,10:00 AM - 10:50 AM  ,"Schimmel, Mariko Shigeta ",18 /20 ,4.00000,,RECORD COUNT 702
+90946,Active,JPN-102-02,Beginning Japanese II,MWF  ,2:00 PM  - 2:50 PM  ,"Schimmel, Mariko Shigeta ",20 /20 ,4.00000,,RECORD COUNT 702
+90947,Active,JPN-102L-01,Beginning Japanese II Lab,TTH  ,10:00 AM - 10:50 AM  ,"Chen, Chen ",17 /20 ,0.00000,,RECORD COUNT 702
+90948,Active,JPN-102L-02,Beginning Japanese II Lab,TTH  ,2:00 PM  - 2:50 PM  ,"Chen, Chen ",19 /20 ,0.00000,,RECORD COUNT 702
+90951,Active,JPN-222-01,Intermediate Japanese II,MTWTHF  ,1:00 PM  - 1:50 PM  ,"Schimmel, Mariko Shigeta; Chen, Chen",17 /18 ,4.00000,,RECORD COUNT 702
+91914,Active,JPN-295-01,ST: Intro Japanese Ling,MWF  ,3:00 PM  - 3:50 PM  ,"Harada, Masashi ",27 /30 ,4.00000,,RECORD COUNT 702
+90952,Active,JPN-332-01,Advanced Japanese II,MWF  ,9:00 AM  - 9:50 AM  ,"Harada, Masashi ",18 /18 ,4.00000,,RECORD COUNT 702
+91929,Active,JPN-395-01,ST: Japanese Speaking,TH  ,3:00 PM  - 3:50 PM  ,"Chen, Chen ",9  /10 ,1.00000,,RECORD COUNT 702
+91149,Active,LAS-111-01,Intro to Latin Amer Studies,MWF  ,11:00 AM - 11:50 AM  ,"Aparicio, Yvette ",18 /20 ,4.00000,,RECORD COUNT 702
+90958,Active,LAT-222-01,Intermediate Latin,MTWTHF  ,10:00 AM - 10:50 AM  ,"Wagner, Nicholas ",19 /20 ,5.00000,,RECORD COUNT 702
+90959,Active,LAT-344-01,Roman Thought,TTH  ,2:00 PM  - 3:50 PM  ,"Cummins, W Joseph ",15 /15 ,4.00000,,RECORD COUNT 702
+91033,Active,LIN-114-01,Intro to General Linguistics,MWF  ,8:00 AM  - 8:50 AM  ,"Herold, Kelly ",19 /25 ,4.00000,,RECORD COUNT 702
+91034,Active,LIN-114-02,Intro to General Linguistics,MWF  ,9:00 AM  - 9:50 AM  ,"Glewwe, Eleanor Rachel ",23 /25 ,4.00000,,RECORD COUNT 702
+91571,Active,LIN-280-01,Phonetics/Phonology,TTH  ,1:00 PM  - 2:20 PM  ,"Glewwe, Eleanor Rachel ",19 /25 ,4.00000,,RECORD COUNT 702
+91915,Active,LIN-295-01,ST: Intro Japanese Ling,MWF  ,3:00 PM  - 3:50 PM  ,"Harada, Masashi ",27 /30 ,4.00000,,RECORD COUNT 702
+91465,Cancelled,LIN-295-01,ST: Language and Humor,TTH  ,2:30 PM  - 3:50 PM  ,"Sweet, Nikolas P ",20 /20 ,4.00000,,RECORD COUNT 702
+91940,Active,LIN-395-01,ST: Experimental Linguistics,TTH  ,8:00 AM  - 9:50 AM  ,"Glewwe, Eleanor Rachel ",10 /15 ,4.00000,,RECORD COUNT 702
+91303,Active,MAT-100-01,Math Laboratory,AR  ,,"Bourgeois Parsons, Renee F ",14 /15 ,1.00000,,RECORD COUNT 702
+90921,Active,MAT-115-01,Introduction to Statistics,MWF  ,2:30 PM  - 3:50 PM  ,"Olsen, Anna H ",-3 /28 ,4.00000,,RECORD COUNT 702
+90910,Active,MAT-124-01,Functions & Integral Calculus,MWF  ,8:00 AM  - 8:50 AM  ,"Shuman, Karen ",28 /32 ,4.00000,,RECORD COUNT 702
+90911,Active,MAT-131-01,Calculus I,MWF  ,10:00 AM - 11:20 AM  ,"Ruiter, Joshua ",10 /32 ,4.00000,,RECORD COUNT 702
+91987,Active,MAT-131-02,Calculus I,MWF  ,8:30 AM  - 9:50 AM  ,"Ruiter, Joshua ",11 /32 ,4.00000,,RECORD COUNT 702
+90912,Active,MAT-133-01,Calculus II,MWF  ,8:30 AM  - 9:50 AM  ,"Wolf, A Royce ",10 /32 ,4.00000,,RECORD COUNT 702
+90913,Active,MAT-133-02,Calculus II,MWF  ,10:00 AM - 11:20 AM  ,"Herstedt, Paul ",22 /32 ,4.00000,,RECORD COUNT 702
+90920,Active,MAT-133-03,Calculus II,MWF  ,1:00 PM  - 2:20 PM  ,"Hebbar, Pratima ",0  /32 ,4.00000,,RECORD COUNT 702
+90861,Active,MAT-208-01,Discrete Structures,TTH  ,2:00 PM  - 3:50 PM  ,"Osera, Peter-Michael Santos ",-8 /20 ,4.00000,,RECORD COUNT 702
+90914,Active,MAT-215-01,Linear Algebra,MWF  ,9:00 AM  - 9:50 AM  ,"Chamberland, Marc A ",6  /28 ,4.00000,,RECORD COUNT 702
+90915,Active,MAT-215-02,Linear Algebra,MWF  ,1:00 PM  - 1:50 PM  ,"Chamberland, Marc A ",4  /28 ,4.00000,,RECORD COUNT 702
+90916,Cancelled,MAT-215-03,Linear Algebra,MWF  ,2:00 PM  - 2:50 PM  ,"Wolf, A Royce ",28 /28 ,4.00000,,RECORD COUNT 702
+91496,Active,MAT-218-01,Elementary Number Theory,MWF  ,10:00 AM - 10:50 AM  ,"Wolf, A Royce ",1  /20 ,4.00000,,RECORD COUNT 702
+91749,Active,MAT-218-02,A 2nd Course in Linear Algebra,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Shuman, Karen ",14 /20 ,4.00000,,RECORD COUNT 702
+91314,Cancelled,MAT-218-02,Geometry,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Shuman, Karen ",20 /20 ,4.00000,,RECORD COUNT 702
+90917,Active,MAT-220-01,Differential Equations,MWF  ,11:00 AM - 11:50 AM  ,"Hebbar, Pratima ",9  /28 ,4.00000,,RECORD COUNT 702
+91346,Active,MAT-314-01,Compressed Sensing,TTH  ,8:30 AM  - 9:50 AM  ,"Blanchard, Jeffrey D ",17 /20 ,4.00000,,RECORD COUNT 702
+90918,Active,MAT-316-01,Foundations of Analysis,MWF  ,3:00 PM  - 3:50 PM  ,"Herstedt, Paul ",13 /20 ,4.00000,,RECORD COUNT 702
+92008,Active,MAT-316-02,Foundations of Analysis,MWF  ,9:00 AM  - 9:50 AM  ,"Herstedt, Paul ",12 /20 ,4.00000,,RECORD COUNT 702
+90919,Active,MAT-321-01,Foundatns of Abstract Algebra,MWF  ,2:00 PM  - 2:50 PM  ,"Mileti, Joseph ",2  /20 ,4.00000,,RECORD COUNT 702
+91313,Active,MAT-322-01,Algebraic Graph Theory,TTH  ,8:00 AM  - 9:50 AM  ,"French, Christopher P ",4  /12 ,4.00000,,RECORD COUNT 702
+91284,Active,MAT-322-02,Algebraic Graph Theory,TTH  ,2:00 PM  - 3:50 PM  ,"French, Christopher P ",7  /12 ,4.00000,,RECORD COUNT 702
+91539,Active,MAT-330-01,Applied Data Science,TTH  ,8:30 AM  - 9:50 AM  ,"Miller, Ryan ",4  /12 ,4.00000,,RECORD COUNT 702
+90932,Active,MAT-336-01,Probability & Statistics II,MWF  ,1:00 PM  - 1:50 PM  ,"Wells, Jonathan M ",1  /25 ,4.00000,,RECORD COUNT 702
+91513,Active,MUS-101-01,Balinese Sound Ensemble,TTH  ,4:00 PM  - 6:00 PM  ,"Hiranmayena, I Putu Tangkas Adi ",49 /50 ,1.00000,,RECORD COUNT 702
+91150,Active,MUS-101-02,Oratorio Society,M  ,7:00 PM  - 9:00 PM  ,"Boggs, Joshua D ",50 /50 ,1.00000,,RECORD COUNT 702
+91151,Active,MUS-101-03,Collegium Musicum,AR  ,,"Brown, Jennifer Williams ",50 /50 ,1.00000,,RECORD COUNT 702
+91152,Active,MUS-101-04,Grinnell Singers,TTH  ,4:00 PM  - 6:00 PM  ,"Boggs, Joshua D ",38 /50 ,1.00000,,RECORD COUNT 702
+91153,Active,MUS-101-06,Grinnell Symphony Orchestra,MW W,4:30 PM  - 6:00 PM 7:00 PM  - 9:00 PM ,"McIntyre, Eric L ",39 /50 ,1.00000,,RECORD COUNT 702
+91154,Active,MUS-101-07,Latin American Ensemble,T  ,7:00 PM  - 9:00 PM  ,"Espinosa, Gabriel ",47 /50 ,1.00000,,RECORD COUNT 702
+91155,Active,MUS-101-08,"Percussn, Mrmba, Steel Pan Ens",T  ,7:00 PM  - 9:00 PM  ,"Ramirez, Stacey ",50 /50 ,1.00000,,RECORD COUNT 702
+91156,Active,MUS-101-09,Fresh Flutes,TH  ,4:15 PM  - 5:45 PM  ,"Anderson, Claudia ",50 /50 ,1.00000,,RECORD COUNT 702
+91157,Active,MUS-101-10,YGB Gospel Choir,W  ,7:00 PM  - 8:30 PM  ,"Jones, Barry V ",47 /50 ,1.00000,,RECORD COUNT 702
+91158,Active,MUS-101-14,Chamber Ensembles,T  ,7:00 PM  - 9:00 PM  ,"Finkelshteyn, Tracy V ",47 /50 ,1.00000,,RECORD COUNT 702
+91159,Active,MUS-101-17,Jazz Ensemble,TTH  ,4:30 PM  - 6:30 PM  ,"Laver, Mark ",49 /50 ,1.00000,,RECORD COUNT 702
+91160,Active,MUS-101-19,Symphonic Band,TH  ,7:00 PM  - 9:00 PM  ,"Metzger, Kara L ",48 /50 ,1.00000,,RECORD COUNT 702
+91161,Active,MUS-101-20,Zimbabwean Mbira Ensemble,MW  ,4:00 PM  - 6:00 PM  ,"Perman, Tony ",11 /12 ,1.00000,,RECORD COUNT 702
+91162,Active,MUS-112-01,Music Theory I,TTH  ,1:00 PM  - 2:20 PM  ,"Cha, Jee-Weon ",19 /22 ,4.00000,,RECORD COUNT 702
+91163,Active,MUS-112L-01,Music Theory I Lab,T  ,10:00 AM - 10:50 AM  ,"Boggs, Joshua D ",10 /11 ,0.00000,,RECORD COUNT 702
+91164,Active,MUS-112L-02,Music Theory I Lab,T  ,3:00 PM  - 3:50 PM  ,"Boggs, Joshua D ",9  /11 ,0.00000,,RECORD COUNT 702
+91165,Active,MUS-116-01,"Music, Culture, Context",MWF  ,10:00 AM - 10:50 AM  ,"Perman, Tony ",28 /30 ,4.00000,,RECORD COUNT 702
+91174,Active,MUS-120-03,Perf: Trombone,AR  ,,"Parker, Robert C ",2  /3  ,1.00000,,RECORD COUNT 702
+91175,Active,MUS-120-04,Perf: French Horn,AR  ,,"Wallace, Guinevere ",9  /10 ,1.00000,,RECORD COUNT 702
+91176,Active,MUS-120-05,Perf: Trumpet,AR  ,,"Swartz, Craig L ",20 /20 ,1.00000,,RECORD COUNT 702
+91177,Active,MUS-120-06,Perf: Bagpipes,AR  ,,"Clower, Robert P ",10 /10 ,1.00000,,RECORD COUNT 702
+91178,Active,MUS-120-07,Perf: Saxophone,AR  ,,"Smith, Ryan J ",20 /20 ,1.00000,,RECORD COUNT 702
+91179,Active,MUS-120-08,Perf: Percussion,AR  ,,"Ramirez, Stacey ",11 /20 ,1.00000,,RECORD COUNT 702
+91180,Active,MUS-120-09,Perf: Clarinet,AR  ,,"Smith, Ryan J ",18 /20 ,1.00000,,RECORD COUNT 702
+91181,Active,MUS-120-10,Perf: Jazz Saxophone,AR  ,,"Smith, Ryan J ",2  /4  ,1.00000,,RECORD COUNT 702
+91183,Active,MUS-120-12,Perf: Harpsichord,AR  ,,"Brown, Jennifer Williams ",20 /20 ,1.00000,,RECORD COUNT 702
+91187,Active,MUS-120-16,Perf: Banjo,AR  ,,"Buck, Fred L ",18 /22 ,1.00000,,RECORD COUNT 702
+91189,Active,MUS-120-18,Perf: Harp,AR  ,,"Erickson, Laura J ",9  /12 ,1.00000,,RECORD COUNT 702
+91819,Active,MUS-120-19,Perf: Organ,AR  ,,"Elsbernd, Michael J ",20 /20 ,1.00000,,RECORD COUNT 702
+91191,Active,MUS-120-21,Perf: Viola,AR  ,,"Miranda, Charles D ",13 /14 ,1.00000,,RECORD COUNT 702
+91193,Active,MUS-120-24,Perf: Flute,AR  ,,"Anderson, Claudia ",7  /8  ,1.00000,,RECORD COUNT 702
+91196,Active,MUS-120-27,Perf: Jazz Piano,AR  ,,"Espinosa, Gabriel ",17 /20 ,1.00000,,RECORD COUNT 702
+91197,Active,MUS-120-28,Perf: Jazz Voice,AR  ,,"Espinosa, Gabriel ",10 /10 ,1.00000,,RECORD COUNT 702
+91198,Active,MUS-120-31,Perf: Lute,AR  ,,"Welke, Cameron ",20 /20 ,1.00000,,RECORD COUNT 702
+91199,Active,MUS-120-35,Perf: Tuba,AR  ,,"Parker, Robert C ",3  /3  ,1.00000,,RECORD COUNT 702
+91200,Active,MUS-120-38,Perf: Cello,AR  ,,"Henson, Alan K ",13 /15 ,1.00000,,RECORD COUNT 702
+91201,Active,MUS-120-39,Perf: Double Bass,AR  ,,"Charlson, Steven E ",20 /20 ,1.00000,,RECORD COUNT 702
+91202,Active,MUS-120-40,Perf: Bassoon,AR  ,,"Wohlenhaus, Jennifer ",3  /3  ,1.00000,,RECORD COUNT 702
+91203,Cancelled,MUS-120-41,Perf: Cornetto,AR  ,,"Baxtresser, William J ",20 /20 ,1.00000,,RECORD COUNT 702
+91205,Active,MUS-120-43,Perf: Accordion,AR  ,,"Bergan, Joyce A ",6  /6  ,1.00000,,RECORD COUNT 702
+91207,Cancelled,MUS-120-45,Perf: Jazz Organ,AR  ,,"Monaco, Tony G ",3  /3  ,1.00000,,RECORD COUNT 702
+91208,Active,MUS-120-46,Perf: Oboe,AR  ,,"Wohlenhaus, Jennifer ",20 /20 ,1.00000,,RECORD COUNT 702
+91209,Active,MUS-120-48,Perf: Jazz Bass,AR  ,,"Charlson, Steven E ",2  /3  ,1.00000,,RECORD COUNT 702
+91210,Active,MUS-120-49,Perf: Baritone Horn,AR  ,,"Parker, Robert C ",3  /3  ,1.00000,,RECORD COUNT 702
+91182,Active,MUS-120-91,Perf: Guitar,AR  ,,"Staff, - ",48 /60 ,1.00000,,RECORD COUNT 702
+91185,Active,MUS-120-92,Perf: Piano,AR  ,,"Staff, - ",4  /20 ,1.00000,,RECORD COUNT 702
+91195,Active,MUS-120-93,Perf: Violin,AR  ,,"Staff, - ",9  /10 ,1.00000,,RECORD COUNT 702
+91186,Active,MUS-120-94,Perf: Voice,AR  ,,"Staff, - ",8  /20 ,1.00000,,RECORD COUNT 702
+91282,Active,MUS-122-20A,Perf: Group Piano,T  ,11:00 AM - 11:50 AM  ,"Westphalen, Melinda ",20 /20 ,1.00000,,RECORD COUNT 702
+91283,Active,MUS-122-20B,Perf: Group Piano,T  ,2:00 PM  - 2:50 PM  ,"Westphalen, Melinda ",20 /20 ,1.00000,,RECORD COUNT 702
+91485,Active,MUS-201-01,Music Interdisciplinary Cnvrs,TTH  ,8:30 AM  - 9:50 AM  ,"Cha, Jee-Weon ",20 /20 ,4.00000,,RECORD COUNT 702
+91167,Cancelled,MUS-201-02,Broadway Musical Theatre,MWF  ,9:00 AM  - 9:50 AM  ,"Brown, Jennifer Williams ",20 /20 ,4.00000,,RECORD COUNT 702
+91382,Active,MUS-202-01,Broadway Theatre,MWF  ,9:00 AM  - 9:50 AM  ,"Brown, Jennifer Williams ",12 /20 ,4.00000,,RECORD COUNT 702
+91168,Active,MUS-202-02,Country Music,MWF  ,11:00 AM - 11:50 AM  ,"Laver, Mark ",25 /25 ,4.00000,,RECORD COUNT 702
+91169,Active,MUS-217-01,Conducting,MW  ,1:00 PM  - 2:20 PM  ,"McIntyre, Eric L ",16 /18 ,4.00000,,RECORD COUNT 702
+91170,Active,MUS-219-01,Electronic Music,MWF  ,3:00 PM  - 3:50 PM  ,"Hiranmayena, I Putu Tangkas Adi ",-2 /12 ,4.00000,,RECORD COUNT 702
+91211,Active,MUS-220-01,Perf: Adv Violin,AR  ,,"Finkelshteyn, Tracy V ",20 /20 ,2.00000,,RECORD COUNT 702
+91776,Active,MUS-220-02,Perf: Adv Voice,AR  ,,"Whitney, Mackenzie ",20 /20 ,2.00000,,RECORD COUNT 702
+91212,Active,MUS-220-03,Perf: Adv Trombone,AR  ,,"Parker, Robert C ",20 /20 ,2.00000,,RECORD COUNT 702
+91213,Active,MUS-220-04,Perf: Adv French Horn,AR  ,,"Wallace, Guinevere ",20 /20 ,2.00000,,RECORD COUNT 702
+91214,Active,MUS-220-05,Perf: Adv Trumpet,AR  ,,"Swartz, Craig L ",20 /20 ,2.00000,,RECORD COUNT 702
+91215,Active,MUS-220-06,Perf: Adv Bagpipes,AR  ,,"Clower, Robert P ",20 /20 ,2.00000,,RECORD COUNT 702
+91216,Active,MUS-220-07,Perf: Adv Saxaphone,AR  ,,"Smith, Ryan J ",20 /20 ,2.00000,,RECORD COUNT 702
+91217,Active,MUS-220-08,Perf: Adv Percussion,AR  ,,"Ramirez, Stacey ",12 /12 ,2.00000,,RECORD COUNT 702
+91218,Active,MUS-220-09,Perf: Clarinet,AR  ,,"Smith, Ryan J ",20 /20 ,2.00000,,RECORD COUNT 702
+91219,Active,MUS-220-10,Perf: Adv Jazz Saxophone,AR  ,,"Smith, Ryan J ",20 /20 ,2.00000,,RECORD COUNT 702
+91220,Active,MUS-220-11,Perf: Adv Guitar,AR  ,,"Smith, Rex Patrick ",20 /20 ,2.00000,,RECORD COUNT 702
+91221,Active,MUS-220-12,Perf: Adv Harpsichord,AR  ,,"Brown, Jennifer Williams ",20 /20 ,2.00000,,RECORD COUNT 702
+91222,Active,MUS-220-13,Perf: Adv Voice,AR  ,,"Mayne, Taylor J ",20 /20 ,2.00000,,RECORD COUNT 702
+91223,Active,MUS-220-14,Perf: Adv Piano,AR  ,,"Messerschmitt, Nicole C ",20 /20 ,2.00000,,RECORD COUNT 702
+91224,Active,MUS-220-15,Perf: Adv Voice,AR  ,,"Lommler, Suzanne ",20 /20 ,2.00000,,RECORD COUNT 702
+91225,Active,MUS-220-16,Perf: Adv Banjo,AR  ,,"Buck, Fred L ",20 /20 ,2.00000,,RECORD COUNT 702
+91226,Active,MUS-220-17,Perf: Adv Piano,AR  ,,"Liu, Hsin-Hui ",20 /20 ,2.00000,,RECORD COUNT 702
+91227,Active,MUS-220-18,Perf: Adv Harp,AR  ,,"Staff, - ",20 /20 ,2.00000,,RECORD COUNT 702
+91821,Active,MUS-220-19,Perf: Adv Organ,AR  ,,"Elsbernd, Michael J ",20 /20 ,2.00000,,RECORD COUNT 702
+91228,Active,MUS-220-20,Perf: Adv Piano,AR  ,,"Westphalen, Melinda ",20 /20 ,2.00000,,RECORD COUNT 702
+91229,Active,MUS-220-21,Perf: Adv Viola,AR  ,,"Miranda, Charles D ",20 /20 ,2.00000,,RECORD COUNT 702
+91230,Active,MUS-220-23,Perf: Adv Voice,AR  ,,"Boggs, Joshua D ",20 /20 ,2.00000,,RECORD COUNT 702
+91231,Active,MUS-220-24,Perf: Adv Flute,AR  ,,"Anderson, Claudia ",20 /20 ,2.00000,,RECORD COUNT 702
+91232,Active,MUS-220-26,Perf: Adv Violin,AR  ,,"Gentzsch, Andrew C ",20 /20 ,2.00000,,RECORD COUNT 702
+91233,Active,MUS-220-27,Perf: Adv Jazz Piano,AR  ,,"Espinosa, Gabriel ",20 /20 ,2.00000,,RECORD COUNT 702
+91234,Active,MUS-220-28,Perf: Adv Jazz Voice,AR  ,,"Espinosa, Gabriel ",20 /20 ,2.00000,,RECORD COUNT 702
+91235,Active,MUS-220-31,Perf: Adv Lute,AR  ,,"Welke, Cameron ",20 /20 ,2.00000,,RECORD COUNT 702
+91236,Active,MUS-220-35,Perf: Adv Tuba,AR  ,,"Parker, Robert C ",20 /20 ,2.00000,,RECORD COUNT 702
+91237,Active,MUS-220-38,Perf: Adv Cello,AR  ,,"Henson, Alan K ",20 /20 ,2.00000,,RECORD COUNT 702
+91238,Active,MUS-220-39,Perf: Adv Double Bass,AR  ,,"Charlson, Steven E ",20 /20 ,2.00000,,RECORD COUNT 702
+91239,Active,MUS-220-40,Perf: Adv Bassoon,AR  ,,"Wohlenhaus, Jennifer ",20 /20 ,2.00000,,RECORD COUNT 702
+91240,Active,MUS-220-42,Perf: Adv Guitar,AR  ,,"Aldridge, James ",20 /20 ,2.00000,,RECORD COUNT 702
+91241,Active,MUS-220-43,Perf: Adv Accordian,AR  ,,"Bergan, Joyce A ",20 /20 ,2.00000,,RECORD COUNT 702
+91242,Active,MUS-220-44,Perf: Adv Voice,AR  ,,"Sojka, Gregory J ",20 /20 ,2.00000,,RECORD COUNT 702
+91243,Cancelled,MUS-220-45,Perf: Adv Jazz Organ,AR  ,,"Monaco, Tony G ",20 /20 ,2.00000,,RECORD COUNT 702
+91244,Active,MUS-220-46,Perf: Adv Oboe,AR  ,,"Wohlenhaus, Jennifer ",20 /20 ,2.00000,,RECORD COUNT 702
+91245,Active,MUS-220-48,Perf: Adv Jazz Bass,AR  ,,"Charlson, Steven E ",20 /20 ,2.00000,,RECORD COUNT 702
+91246,Active,MUS-220-49,Perf: Adv Baritone Horn,AR  ,,"Parker, Robert C ",20 /20 ,2.00000,,RECORD COUNT 702
+91247,Active,MUS-221-01,Perf: Adv Violin,AR  ,,"Finkelshteyn, Tracy V ",20 /20 ,2.00000,,RECORD COUNT 702
+91777,Active,MUS-221-02,Perf: Adv Voice,AR  ,,"Whitney, Mackenzie ",20 /20 ,2.00000,,RECORD COUNT 702
+91248,Active,MUS-221-03,Perf: Adv Trombone,AR  ,,"Parker, Robert C ",20 /20 ,2.00000,,RECORD COUNT 702
+91249,Active,MUS-221-04,Perf: Adv French Horn,AR  ,,"Wallace, Guinevere ",20 /20 ,2.00000,,RECORD COUNT 702
+91250,Active,MUS-221-05,Perf: Adv Trumpet,AR  ,,"Swartz, Craig L ",20 /20 ,2.00000,,RECORD COUNT 702
+91251,Active,MUS-221-06,Perf: Adv Bagpipes,AR  ,,"Clower, Robert P ",20 /20 ,2.00000,,RECORD COUNT 702
+91252,Active,MUS-221-07,Perf: Adv Saxophone,AR  ,,"Smith, Ryan J ",20 /20 ,2.00000,,RECORD COUNT 702
+91253,Active,MUS-221-08,Perf: Adv Percussion,AR  ,,"Ramirez, Stacey ",20 /20 ,2.00000,,RECORD COUNT 702
+91254,Active,MUS-221-09,Perf: Adv Clarinet,AR  ,,"Smith, Ryan J ",20 /20 ,2.00000,,RECORD COUNT 702
+91255,Active,MUS-221-10,Perf: Adv Jazz Saxophone,AR  ,,"Smith, Ryan J ",20 /20 ,2.00000,,RECORD COUNT 702
+91256,Active,MUS-221-11,Perf: Adv Guitar,AR  ,,"Smith, Rex Patrick ",20 /20 ,2.00000,,RECORD COUNT 702
+91257,Active,MUS-221-12,Perf: Adv Harpsichord,AR  ,,"Brown, Jennifer Williams ",20 /20 ,2.00000,,RECORD COUNT 702
+91258,Active,MUS-221-13,Perf: Adv Voice,AR  ,,"Mayne, Taylor J ",20 /20 ,2.00000,,RECORD COUNT 702
+91259,Active,MUS-221-14,Perf: Adv Piano,AR  ,,"Messerschmitt, Nicole C ",20 /20 ,2.00000,,RECORD COUNT 702
+91260,Active,MUS-221-15,Perf: Adv Voice,AR  ,,"Lommler, Suzanne ",20 /20 ,2.00000,,RECORD COUNT 702
+91261,Active,MUS-221-16,Perf: Adv Banjo,AR  ,,"Buck, Fred L ",20 /20 ,2.00000,,RECORD COUNT 702
+91262,Active,MUS-221-17,Perf: Adv Piano,AR  ,,"Liu, Hsin-Hui ",20 /20 ,2.00000,,RECORD COUNT 702
+91263,Active,MUS-221-18,Perf: Adv Harp,AR  ,,"Staff, - ",20 /20 ,2.00000,,RECORD COUNT 702
+91823,Active,MUS-221-19,Perf: Adv Organ,AR  ,,"Elsbernd, Michael J ",20 /20 ,2.00000,,RECORD COUNT 702
+91264,Active,MUS-221-20,Perf: Adv Piano,AR  ,,"Westphalen, Melinda ",20 /20 ,2.00000,,RECORD COUNT 702
+91265,Active,MUS-221-21,Perf: Adv Viola,AR  ,,"Miranda, Charles D ",20 /20 ,2.00000,,RECORD COUNT 702
+91266,Active,MUS-221-23,Perf: Adv Voice,AR  ,,"Boggs, Joshua D ",20 /20 ,2.00000,,RECORD COUNT 702
+91267,Active,MUS-221-24,Perf: Adv Flute,AR  ,,"Anderson, Claudia ",20 /20 ,2.00000,,RECORD COUNT 702
+91268,Active,MUS-221-26,Perf: Adv Violin,AR  ,,"Gentzsch, Andrew C ",20 /20 ,2.00000,,RECORD COUNT 702
+91269,Active,MUS-221-27,Perf: Adv Jazz Piano,AR  ,,"Espinosa, Gabriel ",20 /20 ,2.00000,,RECORD COUNT 702
+91270,Active,MUS-221-28,Perf: Adv Jazz Voice,AR  ,,"Espinosa, Gabriel ",20 /20 ,2.00000,,RECORD COUNT 702
+91271,Active,MUS-221-31,Perf: Adv Lute,AR  ,,"Welke, Cameron ",20 /20 ,2.00000,,RECORD COUNT 702
+91272,Active,MUS-221-35,Perf: Adv Tuba,AR  ,,"Parker, Robert C ",20 /20 ,2.00000,,RECORD COUNT 702
+91273,Active,MUS-221-38,Perf: Adv Cello,AR  ,,"Henson, Alan K ",20 /20 ,2.00000,,RECORD COUNT 702
+91274,Active,MUS-221-39,Perf: Adv Double Bass,AR  ,,"Charlson, Steven E ",20 /20 ,2.00000,,RECORD COUNT 702
+91275,Active,MUS-221-40,Perf: Adv Bassoon,AR  ,,"Wohlenhaus, Jennifer ",20 /20 ,2.00000,,RECORD COUNT 702
+91276,Active,MUS-221-42,Perf: Adv Guitar,AR  ,,"Aldridge, James ",20 /20 ,2.00000,,RECORD COUNT 702
+91277,Active,MUS-221-44,Perf: Adv Voice,AR  ,,"Sojka, Gregory J ",20 /20 ,2.00000,,RECORD COUNT 702
+91278,Cancelled,MUS-221-45,Perf: Adv Jazz Organ,AR  ,,"Monaco, Tony G ",20 /20 ,2.00000,,RECORD COUNT 702
+91279,Active,MUS-221-46,Perf: Adv Oboe,AR  ,,"Wohlenhaus, Jennifer ",20 /20 ,2.00000,,RECORD COUNT 702
+91280,Active,MUS-221-48,Perf: Adv Jazz Bass,AR  ,,"Charlson, Steven E ",20 /20 ,2.00000,,RECORD COUNT 702
+91281,Active,MUS-221-49,Perf: Adv Baritone Horn,AR  ,,"Parker, Robert C ",20 /20 ,2.00000,,RECORD COUNT 702
+91171,Active,MUS-322-01,Music and Capitalism,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Laver, Mark ",15 /15 ,4.00000,,RECORD COUNT 702
+91172,Active,MUS-322-02,Advanced Tonal Theories,TTH  ,2:30 PM  - 3:50 PM  ,"Cha, Jee-Weon ",15 /15 ,4.00000,,RECORD COUNT 702
+90856,Active,NRS-250-01,"Neursc:Fnds,Future,Fallacies",MWF  ,11:00 AM - 11:50 AM  ,"Levandoski, Mark M ",3  /32 ,4.00000,,RECORD COUNT 702
+90857,Active,NRS-250L-01,Neuroscience Lab,TH  ,1:00 PM  - 3:50 PM  ,"Tracy, Andrea L ",-3 /16 ,0.00000,,RECORD COUNT 702
+90859,Active,NRS-250L-02,Neuroscience Lab,F  ,1:00 PM  - 3:50 PM  ,"Tracy, Andrea L ",6  /16 ,0.00000,,RECORD COUNT 702
+90860,Active,PCS-101-01,Intro Peace & Cnflct Stds,MWF  ,10:00 AM - 10:50 AM  ,"Dobe, Timothy S ",19 /25 ,4.00000,,RECORD COUNT 702
+91942,Active,PCS-295-01,ST: Post-Conflict Pathways,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Staff, - ",15 /20 ,1.00000,,RECORD COUNT 702
+91347,Active,PHE-100-05,Bowling,MW  ,1:00 PM  - 1:50 PM  ,"Jaworski, Brian ",0  /12 ,0.50000,,RECORD COUNT 702
+91351,Active,PHE-100-06,Pickleball,MW  ,2:00 PM  - 2:50 PM  ,"Ragan, Eric Lansing ",14 /20 ,0.50000,,RECORD COUNT 702
+91349,Active,PHE-100-07,Conditioning,TTH  ,1:00 PM  - 1:50 PM  ,"Harrold, Dana ",8  /12 ,1.00000,,RECORD COUNT 702
+91350,Active,PHE-100-08,Conditioning,MW  ,1:00 PM  - 1:50 PM  ,"Hollibaugh, Timothy J ",12 /12 ,1.00000,,RECORD COUNT 702
+92007,Active,PHE-100-11,Aikido,MW  ,2:00 PM  - 2:50 PM  ,"Cunningham, Charles E ",17 /20 ,1.00000,,RECORD COUNT 702
+91352,Active,PHE-100-16,Lifeguard Training,MW  ,10:00 AM - 11:50 AM  ,"Staff, - ",9  /10 ,0.50000,,RECORD COUNT 702
+91355,Active,PHE-100-19,Rock Climbing,TH  ,2:00 PM  - 3:50 PM  ,"Hammond, Timothy A ",-1 /7  ,0.50000,,RECORD COUNT 702
+91356,Active,PHE-100-21,Indoor Soccer,TTH  ,10:00 AM - 10:50 AM  ,"Jaworski, Brian ",12 /24 ,1.00000,,RECORD COUNT 702
+91486,Active,PHE-100-24,Beginning Swimming,MW  ,1:00 PM  - 1:50 PM  ,"Mering, Karl ",7  /12 ,0.50000,,RECORD COUNT 702
+91348,Cancelled,PHE-100-25,Advanced Tennis,MW  ,1:00 PM  - 1:50 PM  ,"Hasenyager, Zachary ",12 /12 ,0.50000,,RECORD COUNT 702
+91353,Cancelled,PHE-100-26,Beginning Tennis,TTH  ,2:00 PM  - 2:50 PM  ,"Hasenyager, Zachary ",12 /12 ,0.50000,,RECORD COUNT 702
+91529,Active,PHE-100-28A,Water Aerobics,MWF  ,11:00 AM - 11:50 AM  ,"Freeman, Evelyn ",17 /20 ,0.50000,,RECORD COUNT 702
+91357,Active,PHE-100-28B,Water Aerobics,MWF  ,11:00 AM - 11:50 AM  ,"Freeman, Evelyn ",48 /50 ,0.50000,,RECORD COUNT 702
+91358,Active,PHE-100-32,Volleyball,MW  ,2:00 PM  - 2:50 PM  ,"Ragan, Eric Lansing ",27 /30 ,0.50000,,RECORD COUNT 702
+91993,Active,PHE-100-36A,Indoor Cycling Plus Core,TH  ,10:00 AM - 10:50 AM  ,"Freeman, Evelyn ",18 /20 ,0.50000,,RECORD COUNT 702
+91354,Active,PHE-100-36B,Indoor Cycling Plus Core,TH  ,10:00 AM - 10:50 AM  ,"Freeman, Evelyn ",16 /20 ,0.50000,,RECORD COUNT 702
+91359,Cancelled,PHE-100-37,Beginning Diving,MW  ,1:00 PM  - 1:50 PM  ,"Retelsdorf, Michael ",10 /10 ,0.50000,,RECORD COUNT 702
+91360,Active,PHE-100-39,Advanced Weight Lifting,TTH  ,10:00 AM - 10:50 AM  ,"Martinez, Jason Daniel ",15 /20 ,1.00000,,RECORD COUNT 702
+91361,Active,PHE-100-48A,Yoga,TH  ,8:30 AM  - 9:50 AM  ,"Mering, Karl ",2  /25 ,0.50000,,RECORD COUNT 702
+91994,Active,PHE-100-48B,Yoga,TH  ,8:30 AM  - 9:50 AM  ,"Mering, Karl ",9  /20 ,0.50000,,RECORD COUNT 702
+91362,Active,PHE-101-11,Men's Basketball,MTWTHF  ,4:30 PM  - 6:30 PM  ,"Arseneault Jr., David N ",29 /30 ,0.50000,,RECORD COUNT 702
+91363,Active,PHE-101-12,Women's Basketball,MTWTHF  ,4:30 PM  - 6:30 PM  ,"Harrold, Dana ",29 /30 ,0.50000,,RECORD COUNT 702
+91364,Active,PHE-101-13,Men's Swimming,MTWTHF  ,4:30 PM  - 6:30 PM  ,"Hurley, Erin D ",30 /30 ,0.50000,,RECORD COUNT 702
+91365,Active,PHE-101-14,Women's Swimming,MTWTHF  ,4:30 PM  - 6:30 PM  ,"Hurley, Erin D ",29 /30 ,0.50000,,RECORD COUNT 702
+91366,Active,PHE-101-21,Baseball,MTWTHF  ,4:30 PM  - 6:30 PM  ,"Hollibaugh, Timothy J ",30 /30 ,0.50000,,RECORD COUNT 702
+91367,Active,PHE-101-22,Men's Golf,MTWTHF  ,4:30 PM  - 6:30 PM  ,"Jaworski, Brian ",26 /30 ,0.50000,,RECORD COUNT 702
+91368,Active,PHE-101-23,Men's Indoor Track,MTWTHF  ,4:30 PM  - 6:30 PM  ,"Pedersen, Jeffrey J ",30 /30 ,0.50000,,RECORD COUNT 702
+91369,Active,PHE-101-24,Women's Indoor Track,MTWTHF  ,4:30 PM  - 6:30 PM  ,"Pedersen, Jeffrey J ",28 /30 ,0.50000,,RECORD COUNT 702
+91370,Active,PHE-101-25,Men's Outdoor Track,MTWTHF  ,4:30 PM  - 6:30 PM  ,"Pedersen, Jeffrey J ",30 /30 ,0.50000,,RECORD COUNT 702
+91371,Active,PHE-101-26,Women's Outdoor Track,MTWTHF  ,4:30 PM  - 6:30 PM  ,"Pedersen, Jeffrey J ",30 /30 ,0.50000,,RECORD COUNT 702
+91372,Active,PHE-101-27,Softball,MTWTHF  ,4:30 PM  - 6:30 PM  ,"Determan, Lexy ",29 /30 ,0.50000,,RECORD COUNT 702
+91373,Active,PHE-101-28,Men's Tennis,MTWTHF  ,4:30 PM  - 6:30 PM  ,"Hasenyager, Zachary ",30 /30 ,0.50000,,RECORD COUNT 702
+91374,Active,PHE-112-01,Outdoor Leadership,T  ,2:00 PM  - 3:50 PM  ,"Hammond, Timothy A ",9  /11 ,2.00000,,RECORD COUNT 702
+91879,Active,PHE-195-01,ST: Wellness,T  ,1:00 PM  - 1:50 PM  ,"Hammond, Timothy A; Determan, Lexy",22 /30 ,1.00000,,RECORD COUNT 702
+91941,Active,PHE-195-02,ST: Women in Sport,AR  ,,"Ragan, Eric Lansing; Determan, Lexy",16 /16 ,2.00000,,RECORD COUNT 702
+91375,Active,PHE-202-01,Coaching Methods,MWF  ,9:00 AM  - 9:50 AM  ,"Hollibaugh, Timothy J ",2  /24 ,4.00000,,RECORD COUNT 702
+91380,Active,PHE-211-01,Foundatns of Athletic Training,MWF  ,10:00 AM - 10:50 AM  ,"Tigges, Carissa L ",5  /12 ,4.00000,,RECORD COUNT 702
+91035,Active,PHI-101-01,Logic,MWF  ,8:00 AM  - 8:50 AM  ,"Cummins, W Joseph ",19 /25 ,4.00000,,RECORD COUNT 702
+91036,Active,PHI-111-01,Introduction to Philosophy,MWF  ,9:00 AM  - 9:50 AM  ,"Nyden, Tammy ",18 /25 ,4.00000,,RECORD COUNT 702
+91037,Cancelled,PHI-111-02,Introduction to Philosophy,MWF  ,1:00 PM  - 1:50 PM  ,"Meehan, Mary Johanna ",25 /25 ,4.00000,,RECORD COUNT 702
+91038,Cancelled,PHI-111-03,Introduction to Philosophy,MWF  ,3:00 PM  - 3:50 PM  ,"Meehan, Mary Johanna ",25 /25 ,4.00000,,RECORD COUNT 702
+91039,Active,PHI-121-01,Philosophy for Life,MWF  ,10:00 AM - 10:50 AM  ,"Neisser, Joseph ",14 /25 ,4.00000,,RECORD COUNT 702
+91040,Active,PHI-121-02,Philosophy for Life,MWF  ,2:00 PM  - 2:50 PM  ,"Neisser, Joseph ",15 /25 ,4.00000,,RECORD COUNT 702
+91522,Active,PHI-195-01,ST: Intro Asian Philosophy,MWF  ,11:00 AM - 11:50 AM  ,"Nyden, Tammy ",24 /25 ,4.00000,,RECORD COUNT 702
+91564,Active,PHI-222-01,Environmental Ethics,MW  ,8:30 AM  - 9:50 AM  ,"Fennell, John ",8  /22 ,4.00000,,RECORD COUNT 702
+91041,Active,PHI-233-01,Hist Early Modern Philosophy,MW  ,2:30 PM  - 3:50 PM  ,"Nyden, Tammy ",10 /22 ,4.00000,,RECORD COUNT 702
+91042,Active,PHI-242-01,Ethical Theory,TTH  ,8:30 AM  - 9:50 AM  ,"Dobe, Jennifer ",21 /22 ,4.00000,,RECORD COUNT 702
+91043,Active,PHI-254-01,Metaphysics,TTH  ,2:30 PM  - 3:50 PM  ,"Neisser, Joseph ",16 /22 ,4.00000,,RECORD COUNT 702
+91044,Active,PHI-256-01,Phil of Language & Cognition,TTH  ,8:30 AM  - 9:50 AM  ,"Fennell, John ",17 /22 ,4.00000,,RECORD COUNT 702
+91047,Active,PHI-264-01,Political Theory II,TTH  ,2:30 PM  - 3:50 PM  ,"Meehan, Mary Johanna ",14 /22 ,4.00000,,RECORD COUNT 702
+91048,Active,PHI-393-01,Adv St: Kant's System,TTH  ,2:00 PM  - 3:50 PM  ,"Dobe, Jennifer ",6  /15 ,4.00000,,RECORD COUNT 702
+92009,Active,PHI-491-01,Senior Essay,AR  ,,"Neisser, Joseph ",9  /10 ,4.00000,,RECORD COUNT 702
+90970,Active,PHY-115-01,How to Learn Physics,MWF  ,10:00 AM - 11:50 AM  ,"Hutchison, Paul ",12 /24 ,4.00000,,RECORD COUNT 702
+91045,Active,PHY-131-01,General Physics I w/lab,MWF  ,8:00 AM  - 9:50 AM  ,"Cunningham, Charles E ",18 /24 ,4.00000,,RECORD COUNT 702
+91046,Active,PHY-131-02,General Physics I w/lab,MWF  ,10:00 AM - 11:50 AM  ,"Zabel, James R ",11 /24 ,4.00000,,RECORD COUNT 702
+91050,Active,PHY-132-01,General Physics II w/lab,MWF  ,8:00 AM  - 8:50 AM  ,"Burson, Kristen ",3  /24 ,4.00000,,RECORD COUNT 702
+91051,Cancelled,PHY-132-02,General Physics II w/lab,MWF  ,9:00 AM  - 9:50 AM  ,"Staff, - ",24 /24 ,4.00000,,RECORD COUNT 702
+91053,Active,PHY-132-03,General Physics II w/lab,MWF  ,10:00 AM - 10:50 AM  ,"Breen, Barbara J ",18 /24 ,4.00000,,RECORD COUNT 702
+91054,Active,PHY-132L-01,General Physics II Lab,T  ,1:00 PM  - 3:50 PM  ,"Rodriguez, Shanshan ",9  /24 ,0.00000,,RECORD COUNT 702
+91055,Active,PHY-132L-02,General Physics II Lab,W  ,1:00 PM  - 3:50 PM  ,"Breen, Barbara J ",19 /24 ,0.00000,,RECORD COUNT 702
+91056,Active,PHY-132L-03,General Physics II Lab,TH  ,8:00 AM  - 10:50 AM  ,"Burson, Kristen ",15 /24 ,0.00000,,RECORD COUNT 702
+91057,Active,PHY-220-01,Electronics w/lab,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Tjossem, Paul J H  ",14 /16 ,4.00000,,RECORD COUNT 702
+91058,Active,PHY-234-01,Mechanics w/Lab,MWF  ,10:00 AM - 10:50 AM  ,"Rodriguez, Shanshan ",17 /30 ,4.00000,,RECORD COUNT 702
+91059,Active,PHY-234L-01,Mechanics Lab,TH  ,1:00 PM  - 3:50 PM  ,"Rodriguez, Shanshan ",1  /12 ,0.00000,,RECORD COUNT 702
+91061,Active,PHY-234L-02,Mechanics Lab,F  ,1:00 PM  - 3:50 PM  ,"Zabel, James R ",7  /12 ,0.00000,,RECORD COUNT 702
+91065,Active,PHY-314-01,Thermodyn/Statisticl Physics,TTH  ,8:30 AM  - 9:50 AM  ,"Breen, Barbara J ",9  /15 ,4.00000,,RECORD COUNT 702
+91066,Active,PHY-337-01,Optics Wave Phenomena w/lab,MWF  ,11:00 AM - 11:50 AM  ,"Cunningham, Charles E ",10 /18 ,4.00000,,RECORD COUNT 702
+91067,Active,PHY-337L-01,"Optics, Wave Phenomena Lab",TH  ,1:00 PM  - 3:50 PM  ,"Cunningham, Charles E ",6  /12 ,0.00000,,RECORD COUNT 702
+91068,Active,PHY-337L-02,"Optics, Wave Phenomena Lab",F  ,1:00 PM  - 3:50 PM  ,"Rodriguez, Shanshan ",7  /12 ,0.00000,,RECORD COUNT 702
+91071,Cancelled,PHY-340-01,Topics in Astrophysics,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Christensen, Charlotte ",15 /15 ,4.00000,,RECORD COUNT 702
+91069,Active,PHY-457-01,Advanced Quantum Theory,TTH  ,1:00 PM  - 2:20 PM  ,"Zabel, James R ",11 /12 ,2.00000,,RECORD COUNT 702
+91072,Active,PHY-462-01,Advanced Laboratory,MW  ,1:00 PM  - 3:50 PM  ,"Tjossem, Paul J H ; Burson, Kristen",11 /12 ,2.00000,,RECORD COUNT 702
+91070,Active,POL-101-01,Intro to Political Science,MWF  ,9:00 AM  - 9:50 AM  ,"Jozwiak, Andreas ",23 /25 ,4.00000,,RECORD COUNT 702
+91081,Active,POL-101-02,Intro to Political Science,MWF  ,3:00 PM  - 3:50 PM  ,"Virgin, Sheahan Gray ",15 /25 ,4.00000,,RECORD COUNT 702
+91082,Active,POL-101-03,Intro to Political Science,TTH  ,8:30 AM  - 9:50 AM  ,"Driscoll, Barry ",21 /25 ,4.00000,,RECORD COUNT 702
+91083,Active,POL-219-01,Constitutional Law & Politics,MWF  ,10:00 AM - 11:50 AM  ,"Hanson, Peter ",3  /25 ,4.00000,,RECORD COUNT 702
+91074,Active,POL-220-01,Foundations of Policy Analysis,MWF  ,1:00 PM  - 1:50 PM  ,"Jozwiak, Andreas ",-2 /25 ,4.00000,,RECORD COUNT 702
+91086,Cancelled,POL-239-01,The Presidency,MWF  ,9:00 AM  - 9:50 AM  ,"Trish, Barbara A ",25 /25 ,4.00000,,RECORD COUNT 702
+91084,Active,POL-250-01,Politics of Intern'l Relations,MW  ,2:00 PM  - 3:50 PM  ,"Moyer, H Wayne ",5  /25 ,4.00000,,RECORD COUNT 702
+91085,Active,POL-259-01,"Hmn Rts, Fndtn, Chlngs, Choice",TTH  ,2:00 PM  - 3:50 PM  ,"Moyer, H Wayne ",17 /25 ,4.00000,,RECORD COUNT 702
+91052,Active,POL-264-01,Political Theory II,TTH  ,2:30 PM  - 3:50 PM  ,"Meehan, Mary Johanna ",14 /22 ,4.00000,,RECORD COUNT 702
+91459,Active,POL-295-01,ST: Public Attitudes Am Dem,TTH  ,8:30 AM  - 9:50 AM  ,"Hanson, Peter ",14 /25 ,4.00000,,RECORD COUNT 702
+91460,Active,POL-295-02,ST: Electoral Systems,MWF  ,1:00 PM  - 1:50 PM  ,"Virgin, Sheahan Gray ",18 /25 ,4.00000,,RECORD COUNT 702
+91088,Active,POL-319-01,Advanced Constitutional Law,MW  ,2:00 PM  - 3:50 PM  ,"Hanson, Peter ",-4 /15 ,4.00000,,RECORD COUNT 702
+91087,Active,POL-354-01,Pol Economy of Development,MWF  ,10:00 AM - 11:50 AM  ,"Driscoll, Barry ",2  /15 ,4.00000,,RECORD COUNT 702
+91461,Active,POL-395-01,ST: Democratic Decline,TTH  ,2:00 PM  - 3:50 PM  ,"Virgin, Sheahan Gray ",1  /15 ,4.00000,,RECORD COUNT 702
+91073,Active,PST-220-01,Foundations of Policy Analysis,MWF  ,1:00 PM  - 1:50 PM  ,"Jozwiak, Andreas ",-2 /25 ,4.00000,,RECORD COUNT 702
+91075,Active,PST-420-01,Advanced Policy Research,TH  ,1:00 PM  - 3:50 PM  ,"Jozwiak, Andreas ",10 /12 ,2.00000,,RECORD COUNT 702
+91089,Active,PSY-113-01,Intro to Psychology w/lab,MWF TH,8:00 AM  - 8:50 AM 1:00 PM  - 3:50 PM ,"Yust, Paula K.S.; Brown, Barbara M",9  /26 ,4.00000,,RECORD COUNT 702
+91090,Active,PSY-113-02,Intro to Psychology w/lab,MWF T,9:00 AM  - 9:50 AM 1:00 PM  - 3:50 PM ,"Vossoughi, Nadia; Brown, Barbara M",10 /26 ,4.00000,,RECORD COUNT 702
+91091,Active,PSY-113-03,Intro to Psychology w/lab,TTH W,8:30 AM  - 9:50 AM 1:00 PM  - 3:50 PM ,"Ralston, Christopher; Brown, Barbara M",23 /26 ,4.00000,,RECORD COUNT 702
+91092,Active,PSY-225-01,Research Methods,TTH  ,2:30 PM  - 3:50 PM  ,"Abraham, Ashley N ",-5 /25 ,4.00000,,RECORD COUNT 702
+91093,Active,PSY-233-01,Developmental Psych w/lab,MWF M,10:00 AM - 10:50 AM 1:00 PM  - 3:50 PM ,"Ellis, Ann E ",13 /25 ,4.00000,,RECORD COUNT 702
+91094,Active,PSY-243-01,Behavior Analysis w/lab,MWF T,11:00 AM - 11:50 AM 1:00 PM  - 3:50 PM ,"Lopatto, David ",10 /25 ,4.00000,,RECORD COUNT 702
+91096,Active,PSY-248-01,Psychopathology & Clinical Sci,MWF  ,10:00 AM - 10:50 AM  ,"Ralston, Christopher ",-11/25 ,4.00000,,RECORD COUNT 702
+91097,Cancelled,PSY-250-01,Health Psychology,MWF  ,2:00 PM  - 2:50 PM  ,"Botello Zamarron, Raquel ",25 /25 ,4.00000,,RECORD COUNT 702
+91462,Cancelled,PSY-295-01,ST: Psych of Gender w/lab,MW TH,8:30 AM  - 9:50 AM 1:00 PM  - 3:50 PM ,"Botello Zamarron, Raquel ",25 /25 ,4.00000,,RECORD COUNT 702
+91098,Active,PSY-311-01,Hist Psychological Theories,MWF  ,3:00 PM  - 3:50 PM  ,"Lopatto, David ",13 /15 ,4.00000,,RECORD COUNT 702
+91099,Active,PSY-332-01,Adv Developmental Psychology,TTH  ,8:30 AM  - 9:50 AM  ,"Yust, Paula K.S. ",11 /15 ,4.00000,,RECORD COUNT 702
+91100,Active,PSY-336-01,Adv Behav Neuroscience w/lab,MW  ,1:00 PM  - 3:50 PM  ,"Rempel-Clower, Nancy L ",3  /12 ,4.00000,,RECORD COUNT 702
+91101,Active,PSY-355-01,Psychology of Language w/lab,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Abraham, Ashley N ",12 /15 ,4.00000,,RECORD COUNT 702
+91916,Active,PSY-395-01,ST: Psych Collective Action,MW  ,1:00 PM  - 2:20 PM  ,"Vossoughi, Nadia ",6  /15 ,4.00000,,RECORD COUNT 702
+91103,Active,PSY-495-01,Senior Seminar,TTH  ,2:00 PM  - 3:50 PM  ,"Ellis, Ann E ",12 /12 ,4.00000,,RECORD COUNT 702
+91104,Active,PSY-495-02,Senior Seminar,TTH  ,2:00 PM  - 3:50 PM  ,"Rempel-Clower, Nancy L ",10 /12 ,4.00000,,RECORD COUNT 702
+91109,Active,REL-105-01,Studying Religion: East Asia,MWF  ,9:00 AM  - 9:50 AM  ,"Chen, Dixuan Yujing ",21 /25 ,4.00000,,RECORD COUNT 702
+91981,Active,REL-195-01,ST: Stdyng Rel: Black Rel Trd,MWF  ,11:00 AM - 11:50 AM  ,"Hills, Darrius D ",25 /25 ,4.00000,,RECORD COUNT 702
+91119,Active,REL-214-01,Christian Scriptures,MWF  ,10:00 AM - 10:50 AM  ,"Rietz, Henry W Morisada ",19 /20 ,4.00000,,RECORD COUNT 702
+91118,Active,REL-228-01,Gods of Bollywood,TTH  ,1:00 PM  - 2:20 PM  ,"Dobe, Timothy S ",17 /20 ,4.00000,,RECORD COUNT 702
+91114,Active,REL-254-01,Women and Religion,TTH  ,2:30 PM  - 3:50 PM  ,"Chen, Dixuan Yujing ",17 /20 ,4.00000,,RECORD COUNT 702
+91112,Active,REL-256-01,Religion & Politics Mod China,MWF  ,1:00 PM  - 1:50 PM  ,"Chen, Dixuan Yujing ",18 /20 ,4.00000,,RECORD COUNT 702
+90998,Active,REL-265-01,The Crusades in Middle East,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Saba, Elias G ",11 /25 ,4.00000,,RECORD COUNT 702
+91918,Active,REL-295-01,ST: Religion and Hip-Hop,M  ,7:00 PM  - 9:50 PM  ,"Hills, Darrius D ",19 /25 ,4.00000,,RECORD COUNT 702
+91403,Active,REL-394-01,Adv Tpcs: Putting Rel Stds Wr,TTH  ,2:30 PM  - 3:50 PM  ,"Dobe, Timothy S ",15 /15 ,4.00000,,RECORD COUNT 702
+91886,Active,REL-395-01,"ST: Roman Rel, Ritual, Ident",TTH  ,8:30 AM  - 9:50 AM  ,"Wagner, Nicholas ",10 /15 ,4.00000,,RECORD COUNT 702
+91509,Active,RES-291-01,Prspctv 20C Cntrl & E Euro Lit,MWF  ,2:00 PM  - 2:50 PM  ,"Armstrong, Todd Patrick ",22 /25 ,4.00000,,RECORD COUNT 702
+91102,Active,RES-495-01,Senior Research or Seminar,AR  ,,"Staff, - ",10 /10 ,2.00000,4.00000,RECORD COUNT 702
+92010,Active,RGS-999-01,Billing Placeholder,,,,600/600,0.00000,,RECORD COUNT 702
+91079,Active,RUS-102-01,Beginning Russian II,MTWTHF  ,10:00 AM - 10:50 AM  ,"Greene, Raquel G ",20 /20 ,4.00000,,RECORD COUNT 702
+91523,Active,RUS-195-01,ST: Russ Fairy Tale/Chldrn Lt,MWF  ,9:00 AM  - 9:50 AM  ,"Herold, Kelly ",19 /25 ,4.00000,,RECORD COUNT 702
+91095,Active,RUS-200-01,Conversational Russian,AR  ,,"Voitova, Viktoriia ",12 /15 ,1.00000,,RECORD COUNT 702
+91076,Active,RUS-222-01,Intermediate Russian II,MTWF  ,11:00 AM - 11:50 AM  ,"Armstrong, Todd Patrick ",20 /20 ,4.00000,,RECORD COUNT 702
+91077,Cancelled,RUS-261-01,History of Russian Film,MW  ,2:00 PM  - 3:50 PM  ,"Armstrong, Todd Patrick ",25 /25 ,4.00000,,RECORD COUNT 702
+91080,Active,RUS-389-01,Advanced Russian Seminar,TTH  ,2:00 PM  - 3:50 PM  ,"Greene, Raquel G ",12 /12 ,4.00000,,RECORD COUNT 702
+91450,Active,SAM-395-01,ST: Fiction Francophone,TTH  ,2:00 PM  - 3:50 PM  ,"Tricoire, Marion ",8  /12 ,4.00000,,RECORD COUNT 702
+91125,Active,SAM-401-01,Research Colloquium,AR  ,,"Saba, Elias G ",14 /15 ,2.00000,,RECORD COUNT 702
+91307,Active,SCI-100-01,Science Laboratory,AR  ,,"Mahlab, Minna A ",15 /15 ,1.00000,,RECORD COUNT 702
+91122,Cancelled,SCI-200-01,Learning From Alumni,F  ,2:00 PM  - 3:50 PM  ,"Rietz, Henry W Morisada ",30 /30 ,2.00000,,RECORD COUNT 702
+91473,Active,SCI-240-01,Science Education Methods,AR  ,,"Mahlab, Minna A ",15 /15 ,1.00000,,RECORD COUNT 702
+91015,Active,SMS-150-01,"Intro Sci, Med, Tech & Society",MWF  ,9:00 AM  - 9:50 AM  ,"Guenther, Michael B ",15 /25 ,4.00000,,RECORD COUNT 702
+91106,Cancelled,SOC-111-01,Introduction to Sociology,MW  ,8:30 AM  - 9:50 AM  ,"Snook, Jennifer ",25 /25 ,4.00000,,RECORD COUNT 702
+91107,Active,SOC-111-01,Introduction to Sociology,MWF  ,9:00 AM  - 9:50 AM  ,"Janson, Lara H ",23 /25 ,4.00000,,RECORD COUNT 702
+91108,Active,SOC-111-02,Introduction to Sociology,MW  ,10:00 AM - 11:20 AM  ,"Snook, Jennifer ",16 /25 ,4.00000,,RECORD COUNT 702
+91407,Active,SOC-111-03,Introduction to Sociology,MWF  ,1:00 PM  - 1:50 PM  ,"Janson, Lara H ",19 /25 ,4.00000,,RECORD COUNT 702
+91111,Active,SOC-111-04,Introduction to Sociology,MWF  ,3:00 PM  - 3:50 PM  ,"Quinsaat, Sharon ",16 /25 ,4.00000,,RECORD COUNT 702
+91110,Cancelled,SOC-111-05,Introduction to Sociology,MWF  ,2:00 PM  - 2:50 PM  ,"Ferguson, Susan J ",25 /25 ,4.00000,,RECORD COUNT 702
+91493,Active,SOC-195-01,ST: Contemp US Stdnt Activism,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Scott, Kesho ",21 /25 ,2.00000,,RECORD COUNT 702
+91869,Active,SOC-195-02,ST: Critical Race Theory,MWF  ,9:00 AM  - 9:50 AM  ,"Erickson, Karla A ",15 /20 ,4.00000,,RECORD COUNT 702
+91113,Active,SOC-255-01,Sociology of Asian America,TTH  ,1:00 PM  - 2:20 PM  ,"Quinsaat, Sharon ",14 /22 ,4.00000,,RECORD COUNT 702
+91115,Active,SOC-285-01,Contemp Sociological Theory,MW  ,1:00 PM  - 2:20 PM  ,"Haenfler, Ross J ",-10/18 ,4.00000,,RECORD COUNT 702
+91116,Active,SOC-291-01,Meth Empirical Investigation,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Francisco, Sara C ",0  /18 ,4.00000,,RECORD COUNT 702
+91535,Active,SOC-295-01,ST: Environmental Health,MWF  ,1:00 PM  - 1:50 PM  ,"Bacon, J.M. ",10 /25 ,4.00000,,RECORD COUNT 702
+91536,Active,SOC-295-02,ST: Sexuality Gndr Race Env,MWF  ,3:00 PM  - 3:50 PM  ,"Bacon, J.M. ",12 /25 ,4.00000,,RECORD COUNT 702
+91870,Active,SOC-295-03,ST: Sociology of Robots & AI,MWF  ,8:00 AM  - 8:50 AM  ,"Erickson, Karla A ",8  /25 ,4.00000,,RECORD COUNT 702
+91919,Active,SOC-295-04,ST: Soc of Higher Education,MWF  ,11:00 AM - 11:50 AM  ,"Janson, Lara H ",17 /25 ,4.00000,,RECORD COUNT 702
+91920,Active,SOC-295-05,ST: Global Health,TTH  ,1:00 PM  - 2:20 PM  ,"Ferguson, Susan J ",19 /25 ,4.00000,,RECORD COUNT 702
+91120,Active,SOC-300-01,Practicum Applied Sociology,F  ,2:00 PM  - 3:50 PM  ,"Haenfler, Ross J ",4  /8  ,4.00000,,RECORD COUNT 702
+91921,Active,SOC-395-01,ST: Christian Nationalism,MW  ,8:30 AM  - 9:50 AM  ,"Snook, Jennifer ",4  /14 ,4.00000,,RECORD COUNT 702
+91922,Active,SOC-395-02,ST: Social Network Analysis,TTH  ,1:00 PM  - 2:20 PM  ,"Francisco, Sara C ",9  /14 ,4.00000,,RECORD COUNT 702
+91983,Active,SOC-395-03,ST: Regimes and Resistance,MW  ,10:00 AM - 11:50 AM  ,"Quinsaat, Sharon ",1  /15 ,4.00000,,RECORD COUNT 702
+91130,Active,SPN-106-01,Introduction Spanish Lang II,MTWF  ,9:00 AM  - 9:50 AM  ,"Escoriza-Gallardo, Francisca ",19 /20 ,4.00000,,RECORD COUNT 702
+91131,Active,SPN-106-02,Introduction Spanish Lang II,MTWF  ,1:00 PM  - 1:50 PM  ,"Perez, Mirzam C ",18 /20 ,4.00000,,RECORD COUNT 702
+91133,Active,SPN-204-01,Communication in Spanish I,T  ,10:00 AM - 10:50 AM  ,"Cabrera Hualpa, Byron Andres; Petrus, John",14 /15 ,1.00000,,RECORD COUNT 702
+91134,Active,SPN-205-01,Communication in Spanish II,TH  ,10:00 AM - 10:50 AM  ,"Cabrera Hualpa, Byron Andres; Petrus, John",14 /15 ,1.00000,,RECORD COUNT 702
+91136,Active,SPN-217-01,Intermediate Spanish,MWF  ,8:00 AM  - 8:50 AM  ,"Benjamin, Cortney M ",19 /20 ,4.00000,,RECORD COUNT 702
+91137,Active,SPN-217-02,Intermediate Spanish,MWF  ,11:00 AM - 11:50 AM  ,"Phillips, Nicholas David ",18 /20 ,4.00000,,RECORD COUNT 702
+91139,Active,SPN-285-01,Intro to Textual Analysis,MWF  ,9:00 AM  - 9:50 AM  ,"Aparicio, Yvette ",18 /20 ,4.00000,,RECORD COUNT 702
+91140,Active,SPN-285-02,Intro to Textual Analysis,MWF  ,10:00 AM - 10:50 AM  ,"Benoist, Maria Valerie ",17 /20 ,4.00000,,RECORD COUNT 702
+91141,Active,SPN-285-03,Intro to Textual Analysis,MWF  ,1:00 PM  - 1:50 PM  ,"Benjamin, Cortney M ",19 /20 ,4.00000,,RECORD COUNT 702
+91143,Active,SPN-311-01,Cnstrctng Ident in Ind Lat Am,TTH  ,1:00 PM  - 2:20 PM  ,"Benoist, Maria Valerie ",12 /15 ,4.00000,,RECORD COUNT 702
+91144,Active,SPN-320-01,Cult of Spanish Speaking World,MW  ,1:00 PM  - 2:20 PM  ,"Petrus, John ",12 /15 ,4.00000,,RECORD COUNT 702
+91145,Active,SPN-343-01,The Art of Language,MW  ,2:30 PM  - 3:50 PM  ,"Phillips, Nicholas David ",12 /15 ,4.00000,,RECORD COUNT 702
+91146,Active,SPN-379-01,U.S. Latinx Ident & Sexuality,TTH  ,2:00 PM  - 3:50 PM  ,"Petrus, John ",10 /15 ,4.00000,,RECORD COUNT 702
+91147,Active,SPN-386-01,Stds Medievl Erly Mod Span Lit,MW  ,10:00 AM - 11:50 AM  ,"Perez, Mirzam C ",13 /15 ,4.00000,,RECORD COUNT 702
+91543,Active,SST-110-01,Comparative Herbalism,M  ,7:00 PM  - 9:50 PM  ,"Lewis, Carolyn Herbst ",-10/10 ,2.00000,,RECORD COUNT 702
+91544,Active,SST-110-02,Comparative Herbalism,M  ,7:00 PM  - 9:50 PM  ,"Lewis, Carolyn Herbst ",-2 /10 ,2.00000,,RECORD COUNT 702
+90922,Active,SST-115-01,Introduction to Statistics,MWF  ,2:30 PM  - 3:50 PM  ,"Olsen, Anna H ",-3 /28 ,4.00000,,RECORD COUNT 702
+91894,Active,SST-120-01,Intro to Material Cult Stds,TTH  ,1:00 PM  - 3:50 PM  ,"Maynard, Kelly ",7  /12 ,4.00000,,RECORD COUNT 702
+90862,Cancelled,SST-125-01,Intro to Geographic Info Systm,M  ,7:00 PM  - 9:50 PM  ,"Brottem, Leif ",25 /25 ,2.00000,,RECORD COUNT 702
+90865,Cancelled,SST-125-02,Intro to Geographic Info Systm,M  ,7:00 PM  - 9:50 PM  ,"Brottem, Leif ",25 /25 ,2.00000,,RECORD COUNT 702
+91576,Cancelled,SST-195-01,ST: Intro Material Cult Stds,TTH  ,1:00 PM  - 3:50 PM  ,"Maynard, Kelly ",12 /12 ,4.00000,,RECORD COUNT 702
+91124,Cancelled,SST-200-01,Learning From Alumni,F  ,2:00 PM  - 3:50 PM  ,"Rietz, Henry W Morisada ",30 /30 ,2.00000,,RECORD COUNT 702
+90854,Cancelled,SST-225-01,Applied Geographic Info Systm,MW  ,2:30 PM  - 3:50 PM  ,"Brottem, Leif ",25 /25 ,4.00000,,RECORD COUNT 702
+91458,Active,SST-295-01,ST: Public Attitudes Am Dem,TTH  ,8:30 AM  - 9:50 AM  ,"Hanson, Peter ",14 /25 ,4.00000,,RECORD COUNT 702
+91882,Active,SST-295-02,ST: Dig Journ Pub: New Apprch,MWF  ,2:00 PM  - 2:50 PM  ,"Andelson, Jonathan; Baechtel, Mark",13 /16 ,4.00000,,RECORD COUNT 702
+91883,Active,SST-295-03,ST: Data Wrangling Non-Progrm,F  ,2:00 PM  - 3:50 PM  ,"Bauder, Julia ",28 /30 ,1.00000,,RECORD COUNT 702
+91887,Active,SST-295-04,ST: Cnsdrng Student Success,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Robinson, Georgeanna W; Newhouse, Ben; Peltz, Mark",25 /25 ,4.00000,,RECORD COUNT 702
+90923,Active,STA-209-01,Applied Statistics,MWF  ,8:30 AM  - 9:50 AM  ,"Olsen, Christopher Ray ",20 /26 ,4.00000,,RECORD COUNT 702
+90924,Active,STA-209-02,Applied Statistics,MWF  ,10:00 AM - 11:20 AM  ,"Olsen, Christopher Ray ",20 /26 ,4.00000,,RECORD COUNT 702
+90925,Active,STA-209-03,Applied Statistics,MWF  ,1:00 PM  - 2:20 PM  ,"Olsen, Christopher Ray ",19 /26 ,4.00000,,RECORD COUNT 702
+90926,Active,STA-209-04,Applied Statistics,MWF  ,2:30 PM  - 3:50 PM  ,"Wells, Jonathan M ",-14/26 ,4.00000,,RECORD COUNT 702
+90927,Active,STA-230-01,Introduction to Data Science,MWF  ,10:00 AM - 10:50 AM  ,"Miller, Ryan ",-11/18 ,4.00000,,RECORD COUNT 702
+90928,Active,STA-230-02,Introduction to Data Science,TTH  ,1:00 PM  - 2:20 PM  ,"Olsen, Anna H ",14 /18 ,4.00000,,RECORD COUNT 702
+90929,Active,STA-309-01,Design/Analysis of Experiments,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Kuiper, Shonda ",11 /20 ,4.00000,,RECORD COUNT 702
+90930,Active,STA-310-01,Statistical Modeling,TTH  ,1:00 PM  - 2:20 PM  ,"Kuiper, Shonda ",7  /20 ,4.00000,,RECORD COUNT 702
+91538,Active,STA-330-01,Applied Data Science,TTH  ,8:30 AM  - 9:50 AM  ,"Miller, Ryan ",4  /12 ,4.00000,,RECORD COUNT 702
+90931,Active,STA-336-01,Probability & Statistics II,MWF  ,1:00 PM  - 1:50 PM  ,"Wells, Jonathan M ",1  /25 ,4.00000,,RECORD COUNT 702
+91880,Active,STA-395-01,ST: Intro to ML,TTH  ,1:00 PM  - 2:20 PM  ,"Staff, - ",-2 /24 ,4.00000,,RECORD COUNT 702
+91295,Active,THD-102-01,Intro to Dance Technique,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Hurley, Kathleen ",9  /14 ,2.00000,,RECORD COUNT 702
+91296,Active,THD-110-01,Intro to Movement for the Perf,MWF  ,10:00 AM - 11:50 AM  ,"Miller, Claudia E ",14 /18 ,4.00000,,RECORD COUNT 702
+91469,Active,THD-195-01,ST: Costume Design for Stage,MW  ,10:00 AM - 11:50 AM  ,"Howell-Gritsch, Erin P ",-1 /8  ,4.00000,,RECORD COUNT 702
+91694,Active,THD-195-02,ST: Balinese Dance,TTH  ,2:30 PM  - 3:50 PM  ,"Putri, Dewa Ayu Eka ",12 /12 ,4.00000,,RECORD COUNT 702
+91884,Active,THD-195-03,ST: Gender in Balinese Dance,TTH  ,1:00 PM  - 2:20 PM  ,"Putri, Dewa Ayu Eka ",12 /12 ,2.00000,,RECORD COUNT 702
+92006,Active,THD-195-04,ST: Jewish Folk Dance,TTH  ,2:30 PM  - 3:50 PM  ,"Lee, Amanda E ",30 /30 ,4.00000,,RECORD COUNT 702
+91298,Active,THD-202-01,Contemporary Dance Practices,TTH  ,8:30 AM  - 9:50 AM  ,"Hurley, Kathleen ",14 /14 ,2.00000,,RECORD COUNT 702
+91297,Active,THD-203-01,Dance Ensemble/ACTivate,MTWTH  ,4:30 PM  - 6:30 PM  ,"Miller, Claudia E ",20 /20 ,2.00000,,RECORD COUNT 702
+91300,Active,THD-220-01,Performing Possibilities,TTH  ,2:00 PM  - 3:50 PM  ,"Quintero, Craig ",11 /14 ,4.00000,,RECORD COUNT 702
+91302,Active,THD-230-01,Design for Performance,TTH  ,1:00 PM  - 3:50 PM  ,"Farrar, Stewart Benjamin ",16 /18 ,4.00000,,RECORD COUNT 702
+91646,Active,THD-231-01,Lighting Design Performance,TTH  ,8:00 AM  - 10:50 AM  ,"Farrar, Stewart Benjamin ",10 /12 ,4.00000,,RECORD COUNT 702
+91408,Cancelled,THD-232-01,Digital Media Design Perf,TTH  ,8:00 AM  - 10:50 AM  ,"Thomas, Justin M ",20 /20 ,4.00000,,RECORD COUNT 702
+91470,Active,THD-240-01,Interdisciplinary Performance,TTH  ,1:00 PM  - 2:20 PM  ,"Shook, Jennifer ",20 /20 ,4.00000,,RECORD COUNT 702
+91476,Active,THD-242-01,Why Do Humans Dance?,MW  ,2:00 PM  - 3:50 PM  ,"Miller, Claudia E ",17 /18 ,2.00000,,RECORD COUNT 702
+91309,Active,THD-251-01,Hist Theatre Contexts II,MW  ,10:00 AM - 11:50 AM  ,"Miller, Kristina K ",19 /20 ,4.00000,,RECORD COUNT 702
+91511,Active,THD-320-01,Solo Performance,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Quintero, Craig ",8  /10 ,4.00000,,RECORD COUNT 702
+91404,Active,THD-350-01,Theatre Methods: Dramaturgy,MW  ,2:00 PM  - 3:50 PM  ,"Miller, Kristina K ",19 /20 ,4.00000,,RECORD COUNT 702
+92001,Active,WIL-101-01,Resourcing Social Change,M  ,7:00 PM  - 8:50 PM  ,"Staff, - ",22 /24 ,1.00000,,RECORD COUNT 702
+92002,Active,WIL-201-01,Fndns Marketing Campaigns,T  ,2:00 PM  - 3:50 PM  ,"Staff, - ",24 /24 ,1.00000,,RECORD COUNT 702
+92000,Active,WIL-210-01,Learning From Alumni,F  ,2:00 PM  - 3:50 PM  ,"Rietz, Henry W Morisada ",30 /30 ,2.00000,,RECORD COUNT 702
+91127,Active,WRT-101-01,Writing in the Liberal Arts,M  ,3:00 PM  - 3:50 PM  ,"Price, Taylor ",15 /15 ,1.00000,,RECORD COUNT 702
+91128,Active,WRT-101-02,Writing in the Liberal Arts,TH  ,9:00 AM  - 9:50 AM  ,"Rudolph, William K ",13 /15 ,1.00000,,RECORD COUNT 702
+91129,Active,WRT-102-01,Voice & Style for Acad Writer,TTH  ,3:00 PM  - 3:50 PM  ,"Perez, David ",14 /15 ,2.00000,,RECORD COUNT 702
+91132,Cancelled,WRT-120-01,Oral Comm for Academic Purpose,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Kang, Jennifer ",10 /10 ,2.00000,,RECORD COUNT 702
+91753,Active,WRT-120-01,Oral Comm for Academic Purpose,T TH,10:00 AM - 11:50 AM 10:00 AM - 10:50 AM,"Kang, Jennifer ",10 /10 ,2.00000,,RECORD COUNT 702
+91135,Cancelled,WRT-140-01,Engl for Academic Purposes,T  ,10:00 AM - 11:50 AM  ,"Todey, Erin ",15 /15 ,2.00000,,RECORD COUNT 702
+91138,Active,WRT-301-01,Teaching & Tutoring Writing,TTH  ,2:30 PM  - 3:50 PM  ,"Turk, Martisha ",14 /15 ,4.00000,,RECORD COUNT 702
+
